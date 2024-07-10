@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayCasualiInteri\bin\Debug\net8.0\ArrayCasualiInteri.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayCasualiInteri\bin\Debug\net8.0\ArrayCasualiInteri.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayCasualiInteri\bin\Debug\net8.0\ArrayCasualiInteri.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayCasualiInteri\bin\Debug\net8.0\ArrayCasualiInteri.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayCasualiInteri\bin\Debug\net8.0\ArrayCasualiInteri.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayCasualiInteri\obj\Debug\net8.0\refint\ArrayCasualiInteri.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayCasualiInteri\obj\Debug\net8.0\ref\ArrayCasualiInteri.dll

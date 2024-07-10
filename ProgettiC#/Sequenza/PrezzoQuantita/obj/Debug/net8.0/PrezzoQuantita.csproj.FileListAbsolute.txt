@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\PrezzoQuantita\bin\Debug\net8.0\PrezzoQuantita.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\PrezzoQuantita\bin\Debug\net8.0\PrezzoQuantita.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\PrezzoQuantita\bin\Debug\net8.0\PrezzoQuantita.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\PrezzoQuantita\bin\Debug\net8.0\PrezzoQuantita.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\PrezzoQuantita\bin\Debug\net8.0\PrezzoQuantita.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\PrezzoQuantita\obj\Debug\net8.0\PrezzoQuantita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\PrezzoQuantita\obj\Debug\net8.0\PrezzoQuantita.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\PrezzoQuantita\obj\Debug\net8.0\PrezzoQuantita.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\PrezzoQuantita\obj\Debug\net8.0\PrezzoQuantita.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\PrezzoQuantita\obj\Debug\net8.0\PrezzoQuantita.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\PrezzoQuantita\obj\Debug\net8.0\refint\PrezzoQuantita.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\PrezzoQuantita\obj\Debug\net8.0\PrezzoQuantita.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\PrezzoQuantita\obj\Debug\net8.0\PrezzoQuantita.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\PrezzoQuantita\obj\Debug\net8.0\ref\PrezzoQuantita.dll

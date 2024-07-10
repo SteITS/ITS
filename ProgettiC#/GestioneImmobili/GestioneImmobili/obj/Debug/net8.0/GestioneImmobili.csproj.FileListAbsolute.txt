@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneImmobili\GestioneImmobili\bin\Debug\net8.0\GestioneImmobili.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneImmobili\GestioneImmobili\bin\Debug\net8.0\GestioneImmobili.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneImmobili\GestioneImmobili\bin\Debug\net8.0\GestioneImmobili.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneImmobili\GestioneImmobili\bin\Debug\net8.0\GestioneImmobili.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneImmobili\GestioneImmobili\bin\Debug\net8.0\GestioneImmobili.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\GestioneImmobili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\GestioneImmobili.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\GestioneImmobili.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\GestioneImmobili.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\GestioneImmobili.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\refint\GestioneImmobili.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\GestioneImmobili.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\GestioneImmobili.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\ref\GestioneImmobili.dll

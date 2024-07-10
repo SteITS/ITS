@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\PariDispari\bin\Debug\net8.0\PariDispari.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\PariDispari\bin\Debug\net8.0\PariDispari.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\PariDispari\bin\Debug\net8.0\PariDispari.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\PariDispari\bin\Debug\net8.0\PariDispari.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\PariDispari\bin\Debug\net8.0\PariDispari.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\PariDispari\obj\Debug\net8.0\PariDispari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\PariDispari\obj\Debug\net8.0\PariDispari.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\PariDispari\obj\Debug\net8.0\PariDispari.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\PariDispari\obj\Debug\net8.0\PariDispari.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\PariDispari\obj\Debug\net8.0\PariDispari.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\PariDispari\obj\Debug\net8.0\refint\PariDispari.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\PariDispari\obj\Debug\net8.0\PariDispari.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\PariDispari\obj\Debug\net8.0\PariDispari.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\PariDispari\obj\Debug\net8.0\ref\PariDispari.dll

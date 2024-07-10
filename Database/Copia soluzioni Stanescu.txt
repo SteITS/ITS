@@ -1,0 +1,161 @@
+1)	Selezionare tutti gli immobili il cui tipo di contratto è “Vendita”. La ricerca dovrà essere seguita non per id del contratto ma per tipo_contratto (tipo_contratto=’Vendita’).
+SELECT i.tipo_immobile from contratto c, immobile i
+WHERE i.contratto=c.id
+AND c.tipo_contratto="vendita";
+
+2)	Restituire il conteggio di tutti gli annunci di affitto relativamente al comune di Moncalieri.
+SELECT COUNT(a.titolo_annuncio) FROM annuncio a, comune c, contratto ct, immobile i
+WHERE i.comune=c.id
+AND ct.id=i.contratto
+and a.id=i.id
+AND ct.tipo_contratto LIKE "%affitto%"
+and c.comune="Moncalieri";
+3) Selezionare nome comune e nome provincia per tutti i comuni presenti sul database.
+SELECT c.comune,p.provincia FROM comune c, provincia p
+WHERE c.provincia=p.id;
+
+
+
+
+4)Selezionare tutti gli annunci relativi ad appartamenti in affitto nel comune di Torino con prezzo inferiore a 500 euro.
+SELECT a.titolo_annuncio FROM annuncio a ,comune c , contratto ct, immobile i, tipo_immobile ti
+WHERE i.comune=c.id
+AND i.id=a.id
+AND i.contratto=ct.id
+and i.tipo_immobile=ti.id
+and prezzo<500
+AND c.comune="Torino"
+AND ct.tipo_contratto like "%affitto%"
+AND ti.tipo_immobile="appartamento";
+
+5) Selezionare tutti gli annunci pubblicati nel mese di aprile 2024 per appartamenti la cui metratura è compresa tra 80 e 100 metri quadrati.
+
+SELECT a.titolo_annuncio FROM annuncio a, immobile i, tipo_immobile t
+WHERE i.id=a.id
+and i.tipo_immobile=t.id
+AND i.metratura BETWEEN 80 AND 100
+and t.tipo_immobile="Appartamento"
+and MONTH(a.data_pubblicazione) = 4 AND YEAR(a.data_pubblicazione) = 2024;
+
+6) Per ogni immobile di tipo ‘Loft’  mostrare il tipo contratto ed in quale comune si trova.
+SELECT ct.tipo_contratto, c.comune FROM immobile i , contratto ct , comune c ,tipo_immobile t
+WHERE i.contratto=ct.id
+and i.comune=c.id
+AND i.tipo_immobile=t.id
+AND t.tipo_immobile="loft"
+GROUP BY i.id;
+
+7) Contare gli annunci suddivisi per regione (devono comparire anche le regioni per le quali non c’è nessun annuncio).
+
+SELECT r.denominazione,count(a.titolo_annuncio) FROM immobile i
+RIGHT JOIN comune c ON c.id=i.comune
+RIGHT JOIN provincia p ON c.provincia=p.id
+RIGHT join regione r on r.codice_regione=p.regione
+LEFT JOIN annuncio a ON i.id=a.id
+GROUP BY r.denominazione;
+
+
+8) Selezionare l’id, la metratura, il prezzo, il comune e la provincia (per esteso) degli immobili per quali non è ancora stato scritto alcun annuncio.
+
+SELECT i.id, i.metratura, i.prezzo, c.comune, p.provincia from immobile i
+LEFT JOIN comune c ON i.comune=c.id
+LEFT JOIN provincia p ON c.provincia=p.id
+LEFT JOIN annuncio a ON i.id=a.id
+WHERE a.data_pubblicazione IS null;
+
+9) Contare tutti gli annunci di immobili pubblicati e NON relativi alla provincia di Torino.
+SELECT count(a.titolo_annuncio) FROM immobile i
+INNER JOIN annuncio a ON i.id=a.id
+INNER JOIN comune c ON i.comune=c.id
+INNER JOIN provincia p ON c.provincia=p.id
+WHERE p.provincia != "Torino";
+
+10) Se all’agenzia immobiliare venisse corrisposto un 3% per ogni annuncio di vendita di immobile presente nel comune di Torino, a quanto ammonterebbero le provvigioni?
+
+SELECT i.id,sum(i.prezzo * 0.03) as provvigioni FROM immobile i
+INNER JOIN annuncio a ON a.id=i.id
+INNER JOIN comune c on i.comune=c.id
+INNER JOIN contratto ct ON i.contratto=ct.id
+WHERE c.comune="Torino" AND ct.tipo_contratto="vendita";
+
+11) Per ogni provincia contare il numero di annunci pubblicati.
+SELECT p.provincia, COUNT(a.id) as conta_annunci FROM immobile i
+INNER JOIN annuncio a on a.id=i.id
+INNER JOIN comune c on i.comune=c.id
+INNER JOIN provincia p ON c.provincia=p.id
+WHERE a.data_pubblicazione is not null
+GROUP by p.provincia;
+
+12) Conteggio di tutti gli immobili presenti nel comune di Torino di almeno 88 m2.
+SELECT COUNT(i.id) AS conta_immobili_torino_88 FROM immobile i
+INNER JOIN comune c ON c.id=i.comune
+WHERE c.comune="Torino"
+AND i.metratura>88;
+
+13) Conteggio delle province suddivise per regione.
+SELECT r.denominazione, COUNT(p.id) as n_province FROM provincia p
+INNER JOIN regione r ON p.regione=r.codice_regione
+GROUP BY r.denominazione;
+
+14) Il prezzo di affitto più basso e quello più alto.
+SELECT min(i.prezzo) as minimo, max(i.prezzo) as massimo FROM immobile i
+inner JOIN contratto c ON i.contratto=c.id
+WHERE c.tipo_contratto="affitto";
+
+15) La regione col maggior numero di immobili in affitto. Il risultato NON deve essere un elenco ordinato in modo discendente, né deve essere usato LIMIT.
+
+SELECT count(i.id) as affitti,r.denominazione
+from immobile i 
+inner JOIN contratto c on c.id=i.contratto
+inner join comune com on com.id=i.comune
+inner join provincia p on p.id=com.provincia
+inner JOIN regione r on r.codice_regione=p.regione
+WHERE c.tipo_contratto like "%Affitto%"
+group by r.denominazione
+HAVING COUNT(i.id)=(SELECT max(affitti) 
+FROM(SELECT count(i.id) as affitti,r.denominazione
+from immobile i 
+inner JOIN contratto c on c.id=i.contratto
+inner join comune com on com.id=i.comune
+inner join provincia p on p.id=com.provincia
+inner JOIN regione r on r.codice_regione=p.regione
+WHERE c.tipo_contratto like "%Affitto%"
+group by r.denominazione) as max);
+
+16) Costo medio degli affitti in Piemonte.
+SELECT r.denominazione,avg(i.prezzo) FROM immobile i
+INNER JOIN comune c ON i.comune=c.id
+INNER JOIN provincia p on c.provincia=p.id
+INNER JOIN contratto ct ON ct.id=i.contratto
+INNER JOIN regione r ON p.regione=r.codice_regione
+WHERE r.denominazione="Piemonte"
+AND ct.tipo_contratto LIKE "%affitto%";
+
+17) Conteggio degli immobili suddivisi per provincia in base alla classe energetica di appartenenza.
+
+SELECT p.provincia,i.classe_energetica,COUNT(i.id) FROM immobile i
+left join comune c ON i.comune=c.id
+left JOIN provincia p ON c.provincia=p.id
+GROUP BY p.provincia,i.classe_energetica;
+
+18) Per ogni immobile selezionare l’id, tipologia immobile, nome regione, nome provincia, nome comune, indirizzo, metratura, totale locali (bagni+locali), tipo contratto.
+SELECT i.id,ti.tipo_immobile,r.denominazione,p.provincia,c.comune,i.indirizzo,i.metratura,i.numero_bagni+i.numero_stanze as totale_locali FROM immobile i
+INNER JOIN tipo_immobile ti ON i.tipo_immobile=ti.id
+INNER JOIN comune c ON i.comune=c.id
+INNER JOIN provincia p on c.provincia=p.id
+INNER JOIN regione r on p.regione=r.codice_regione
+GROUP BY i.id;
+
+19) Quanti sono gli annunci relativi al cap 17021?
+SELECT COUNT(a.id) AS annunci_CAP_17021 FROM annuncio a
+INNER JOIN immobile i on a.id=i.id
+INNER JOIN comune c ON i.comune=c.id
+WHERE c.cap = 17021;
+
+
+20) Calcolare la percentuale di annunci suddivisi per comune (fatto 100% al totalità degli annunci).
+SELECT c.comune,(COUNT(a.id) / totale_annunci.totale) * 100 AS percentuale_annunci FROM annuncio a
+INNER JOIN immobile i ON a.id = i.id
+inner JOIN comune c ON i.comune = c.id
+inner JOIN (SELECT COUNT(*) AS totale FROM annuncio) AS totale_annunci
+GROUP BY i.comune;

@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneMessaggi\GestioneMessaggi\bin\Debug\net8.0\GestioneMessaggi.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneMessaggi\GestioneMessaggi\bin\Debug\net8.0\GestioneMessaggi.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneMessaggi\GestioneMessaggi\bin\Debug\net8.0\GestioneMessaggi.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneMessaggi\GestioneMessaggi\bin\Debug\net8.0\GestioneMessaggi.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneMessaggi\GestioneMessaggi\bin\Debug\net8.0\GestioneMessaggi.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneMessaggi\GestioneMessaggi\obj\Debug\net8.0\GestioneMessaggi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneMessaggi\GestioneMessaggi\obj\Debug\net8.0\GestioneMessaggi.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneMessaggi\GestioneMessaggi\obj\Debug\net8.0\GestioneMessaggi.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneMessaggi\GestioneMessaggi\obj\Debug\net8.0\GestioneMessaggi.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneMessaggi\GestioneMessaggi\obj\Debug\net8.0\GestioneMessaggi.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneMessaggi\GestioneMessaggi\obj\Debug\net8.0\refint\GestioneMessaggi.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneMessaggi\GestioneMessaggi\obj\Debug\net8.0\GestioneMessaggi.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneMessaggi\GestioneMessaggi\obj\Debug\net8.0\GestioneMessaggi.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneMessaggi\GestioneMessaggi\obj\Debug\net8.0\ref\GestioneMessaggi.dll

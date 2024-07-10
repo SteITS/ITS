@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD54C8A5-CB5B-4D4C-895C-5417F25EF3D5}|Solidi\\Solidi.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\classiastratte\\solidi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD54C8A5-CB5B-4D4C-895C-5417F25EF3D5}|Solidi\\Solidi.csproj|solutionrelative:solidi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD54C8A5-CB5B-4D4C-895C-5417F25EF3D5}|Solidi\\Solidi.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\classiastratte\\solidi\\cilindro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD54C8A5-CB5B-4D4C-895C-5417F25EF3D5}|Solidi\\Solidi.csproj|solutionrelative:solidi\\cilindro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD54C8A5-CB5B-4D4C-895C-5417F25EF3D5}|Solidi\\Solidi.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\classiastratte\\solidi\\tipomateriale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD54C8A5-CB5B-4D4C-895C-5417F25EF3D5}|Solidi\\Solidi.csproj|solutionrelative:solidi\\tipomateriale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD54C8A5-CB5B-4D4C-895C-5417F25EF3D5}|Solidi\\Solidi.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\classiastratte\\solidi\\solido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD54C8A5-CB5B-4D4C-895C-5417F25EF3D5}|Solidi\\Solidi.csproj|solutionrelative:solidi\\solido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD54C8A5-CB5B-4D4C-895C-5417F25EF3D5}|Solidi\\Solidi.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\classiastratte\\solidi\\cubo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD54C8A5-CB5B-4D4C-895C-5417F25EF3D5}|Solidi\\Solidi.csproj|solutionrelative:solidi\\cubo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD54C8A5-CB5B-4D4C-895C-5417F25EF3D5}|Solidi\\Solidi.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\classiastratte\\solidi\\sfera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD54C8A5-CB5B-4D4C-895C-5417F25EF3D5}|Solidi\\Solidi.csproj|solutionrelative:solidi\\sfera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD54C8A5-CB5B-4D4C-895C-5417F25EF3D5}|Solidi\\Solidi.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\classiastratte\\solidi\\materiale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD54C8A5-CB5B-4D4C-895C-5417F25EF3D5}|Solidi\\Solidi.csproj|solutionrelative:solidi\\materiale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD54C8A5-CB5B-4D4C-895C-5417F25EF3D5}|Solidi\\Solidi.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\classiastratte\\solidi\\cono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD54C8A5-CB5B-4D4C-895C-5417F25EF3D5}|Solidi\\Solidi.csproj|solutionrelative:solidi\\cono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sfera.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\Solidi\\Sfera.cs",
+              "RelativeDocumentMoniker": "Solidi\\Sfera.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\Solidi\\Sfera.cs",
+              "RelativeToolTip": "Solidi\\Sfera.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:45:26.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Solido.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\Solidi\\Solido.cs",
+              "RelativeDocumentMoniker": "Solidi\\Solido.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\Solidi\\Solido.cs",
+              "RelativeToolTip": "Solidi\\Solido.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:30:56.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\Solidi\\Program.cs",
+              "RelativeDocumentMoniker": "Solidi\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\Solidi\\Program.cs",
+              "RelativeToolTip": "Solidi\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvxgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:30:23.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoMateriale.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\Solidi\\TipoMateriale.cs",
+              "RelativeDocumentMoniker": "Solidi\\TipoMateriale.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\Solidi\\TipoMateriale.cs",
+              "RelativeToolTip": "Solidi\\TipoMateriale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:19:21.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cubo.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\Solidi\\Cubo.cs",
+              "RelativeDocumentMoniker": "Solidi\\Cubo.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\Solidi\\Cubo.cs",
+              "RelativeToolTip": "Solidi\\Cubo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:38:35.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cilindro.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\Solidi\\Cilindro.cs",
+              "RelativeDocumentMoniker": "Solidi\\Cilindro.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\Solidi\\Cilindro.cs",
+              "RelativeToolTip": "Solidi\\Cilindro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:04:38.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Materiale.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\Solidi\\Materiale.cs",
+              "RelativeDocumentMoniker": "Solidi\\Materiale.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\Solidi\\Materiale.cs",
+              "RelativeToolTip": "Solidi\\Materiale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:16:47.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cono.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\Solidi\\Cono.cs",
+              "RelativeDocumentMoniker": "Solidi\\Cono.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\ClassiAstratte\\Solidi\\Cono.cs",
+              "RelativeToolTip": "Solidi\\Cono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:04:59.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

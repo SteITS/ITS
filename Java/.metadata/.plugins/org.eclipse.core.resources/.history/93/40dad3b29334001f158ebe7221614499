@@ -1,0 +1,67 @@
+package com.stwfy.services;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.stwfy.entities.Country;
+import com.stwfy.repos.CountryDAO;
+@Service
+public class CountryServiceImpl implements CountryService {
+	
+
+
+	@Override
+	public List<Country> getCountries() {
+		// TODO Auto-generated method stub
+		return dao.findAll();
+	}
+	
+	@Autowired
+	private CountryDAO dao;
+	
+	@Override
+	public List<Country> getCountryByName(String name) {
+		// TODO Auto-generated method stub
+		return dao.findByName(name);
+	}
+
+	@Override
+	public List<Country> getCountryByCapital(String capital) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Country> getCountryByPopulation(int population) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Country getCountryById(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<String> getNames() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<String> getCapitals() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<String> getPopulations() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
+}

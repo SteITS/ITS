@@ -1,0 +1,32 @@
+1)"?v=10" è un parametro di query, spesso utilizzato per il controllo di versione del file.
+v: versione
+1.0: numero di versione.
+introducendo un numero di versione come parametro di query ci su può assicurare che il browser scarichi
+l'ultima versione del file quando cambia. Può essere utile per invalidare la cache, caricare lo stile 
+più recente bypassando le copie in cache delle versioni precedenti.
+
+2)La cache del browser è un meccanismo utilizzato dai browser per memorizzare copie di pagine HTML
+,stili CSS,javascript ecc.
+
+Prima Visita: Memorizzazione di varie risorse dal server HTML,CSS,Script ecc. Memorizzato sul dispositivo locale.
+
+Visite Successive: Durante le visite successive allo stesso sito web, il browser verifica se le risorse necessarie
+per visualizzare la pagina sono già presenti nella cache.
+
+Convalida della Cache: Il browser utilizza vari meccanismi per convalidare le risorse memorizzate nella cache.
+Come ETag e Last-Modifiedper verificare se la risorsa sul server è stata modificata dalla sua ultima memorizzazione nella cache.
+
+ETag: Un tag di entità è un identificatore unico assegnato dal server a una versione specifica di una risorsa.
+
+Last-Modified: Il server include un timestamp che indica quando la risorsa è stata modificata per l'ultima volta.
+
+Richieste Condizionali: Se la risorsa memorizzata nella cache è ancora valida (non modificata), il server potrebbe
+rispondere con uno stato "304 Not Modified", e il browser utilizza la versione in cache. Se la risorsa è stata 
+modificata, il server invia la risorsa aggiornata.
+
+Scadenza e Cache-Control: Le risorse possono anche avere tempi di scadenza impostati dal server utilizzando 
+l'intestazione Expires o l'intestazione Cache-Control. Queste intestazioni indicano per quanto tempo una risorsa
+è considerata valida prima che il browser debba richiederla nuovamente al server.
+
+Direttive di Cache-Control: L'intestazione Cache-Control può includere direttive come public, private, no-cache
+e no-store, che specificano come il browser dovrebbe gestire la memorizzazione nella cache.

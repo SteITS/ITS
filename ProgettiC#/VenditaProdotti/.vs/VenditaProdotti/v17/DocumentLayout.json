@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\VenditaProdotti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A2DEAF-8BCC-41AB-BFB5-5C09293C0AF7}|VenditaProdotti\\VenditaProdotti.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\venditaprodotti\\venditaprodotti\\prodottobiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A2DEAF-8BCC-41AB-BFB5-5C09293C0AF7}|VenditaProdotti\\VenditaProdotti.csproj|solutionrelative:venditaprodotti\\prodottobiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A2DEAF-8BCC-41AB-BFB5-5C09293C0AF7}|VenditaProdotti\\VenditaProdotti.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\venditaprodotti\\venditaprodotti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A2DEAF-8BCC-41AB-BFB5-5C09293C0AF7}|VenditaProdotti\\VenditaProdotti.csproj|solutionrelative:venditaprodotti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A2DEAF-8BCC-41AB-BFB5-5C09293C0AF7}|VenditaProdotti\\VenditaProdotti.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\venditaprodotti\\venditaprodotti\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A2DEAF-8BCC-41AB-BFB5-5C09293C0AF7}|VenditaProdotti\\VenditaProdotti.csproj|solutionrelative:venditaprodotti\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A2DEAF-8BCC-41AB-BFB5-5C09293C0AF7}|VenditaProdotti\\VenditaProdotti.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\venditaprodotti\\venditaprodotti\\alimentare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A2DEAF-8BCC-41AB-BFB5-5C09293C0AF7}|VenditaProdotti\\VenditaProdotti.csproj|solutionrelative:venditaprodotti\\alimentare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A2DEAF-8BCC-41AB-BFB5-5C09293C0AF7}|VenditaProdotti\\VenditaProdotti.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\venditaprodotti\\venditaprodotti\\oggetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A2DEAF-8BCC-41AB-BFB5-5C09293C0AF7}|VenditaProdotti\\VenditaProdotti.csproj|solutionrelative:venditaprodotti\\oggetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alimentare.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\VenditaProdotti\\VenditaProdotti\\Alimentare.cs",
+              "RelativeDocumentMoniker": "VenditaProdotti\\Alimentare.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\VenditaProdotti\\VenditaProdotti\\Alimentare.cs",
+              "RelativeToolTip": "VenditaProdotti\\Alimentare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:02:16.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdottoBiz.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\VenditaProdotti\\VenditaProdotti\\ProdottoBiz.cs",
+              "RelativeDocumentMoniker": "VenditaProdotti\\ProdottoBiz.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\VenditaProdotti\\VenditaProdotti\\ProdottoBiz.cs",
+              "RelativeToolTip": "VenditaProdotti\\ProdottoBiz.cs",
+              "ViewState": "AQIAABUAAABAmZmZmZknwBkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:47:18.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\VenditaProdotti\\VenditaProdotti\\Prodotto.cs",
+              "RelativeDocumentMoniker": "VenditaProdotti\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\VenditaProdotti\\VenditaProdotti\\Prodotto.cs",
+              "RelativeToolTip": "VenditaProdotti\\Prodotto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:43:38.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Oggetto.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\VenditaProdotti\\VenditaProdotti\\Oggetto.cs",
+              "RelativeDocumentMoniker": "VenditaProdotti\\Oggetto.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\VenditaProdotti\\VenditaProdotti\\Oggetto.cs",
+              "RelativeToolTip": "VenditaProdotti\\Oggetto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:43:16.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\VenditaProdotti\\VenditaProdotti\\Program.cs",
+              "RelativeDocumentMoniker": "VenditaProdotti\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\VenditaProdotti\\VenditaProdotti\\Program.cs",
+              "RelativeToolTip": "VenditaProdotti\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAZmZmZmYSwCYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:25:06.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

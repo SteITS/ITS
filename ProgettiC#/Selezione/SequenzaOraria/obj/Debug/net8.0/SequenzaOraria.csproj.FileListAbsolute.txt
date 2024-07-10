@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\SequenzaOraria\bin\Debug\net8.0\SequenzaOraria.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\SequenzaOraria\bin\Debug\net8.0\SequenzaOraria.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\SequenzaOraria\bin\Debug\net8.0\SequenzaOraria.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\SequenzaOraria\bin\Debug\net8.0\SequenzaOraria.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\SequenzaOraria\bin\Debug\net8.0\SequenzaOraria.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\SequenzaOraria\obj\Debug\net8.0\SequenzaOraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\SequenzaOraria\obj\Debug\net8.0\SequenzaOraria.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\SequenzaOraria\obj\Debug\net8.0\SequenzaOraria.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\SequenzaOraria\obj\Debug\net8.0\SequenzaOraria.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\SequenzaOraria\obj\Debug\net8.0\SequenzaOraria.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\SequenzaOraria\obj\Debug\net8.0\refint\SequenzaOraria.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\SequenzaOraria\obj\Debug\net8.0\SequenzaOraria.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\SequenzaOraria\obj\Debug\net8.0\SequenzaOraria.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Selezione\SequenzaOraria\obj\Debug\net8.0\ref\SequenzaOraria.dll

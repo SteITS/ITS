@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\FigureGeometriche\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82DBEC05-DCFD-49C7-B0CC-A3B08A52C5BF}|FigureGeometriche\\FigureGeometriche.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\figuregeometriche\\figuregeometriche\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DBEC05-DCFD-49C7-B0CC-A3B08A52C5BF}|FigureGeometriche\\FigureGeometriche.csproj|solutionrelative:figuregeometriche\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DBEC05-DCFD-49C7-B0CC-A3B08A52C5BF}|FigureGeometriche\\FigureGeometriche.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\figuregeometriche\\figuregeometriche\\triangolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DBEC05-DCFD-49C7-B0CC-A3B08A52C5BF}|FigureGeometriche\\FigureGeometriche.csproj|solutionrelative:figuregeometriche\\triangolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DBEC05-DCFD-49C7-B0CC-A3B08A52C5BF}|FigureGeometriche\\FigureGeometriche.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\figuregeometriche\\figuregeometriche\\rettangolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DBEC05-DCFD-49C7-B0CC-A3B08A52C5BF}|FigureGeometriche\\FigureGeometriche.csproj|solutionrelative:figuregeometriche\\rettangolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DBEC05-DCFD-49C7-B0CC-A3B08A52C5BF}|FigureGeometriche\\FigureGeometriche.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\figuregeometriche\\figuregeometriche\\punto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DBEC05-DCFD-49C7-B0CC-A3B08A52C5BF}|FigureGeometriche\\FigureGeometriche.csproj|solutionrelative:figuregeometriche\\punto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DBEC05-DCFD-49C7-B0CC-A3B08A52C5BF}|FigureGeometriche\\FigureGeometriche.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\figuregeometriche\\figuregeometriche\\cerchio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DBEC05-DCFD-49C7-B0CC-A3B08A52C5BF}|FigureGeometriche\\FigureGeometriche.csproj|solutionrelative:figuregeometriche\\cerchio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DBEC05-DCFD-49C7-B0CC-A3B08A52C5BF}|FigureGeometriche\\FigureGeometriche.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\figuregeometriche\\figuregeometriche\\quadrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DBEC05-DCFD-49C7-B0CC-A3B08A52C5BF}|FigureGeometriche\\FigureGeometriche.csproj|solutionrelative:figuregeometriche\\quadrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Punto.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\FigureGeometriche\\FigureGeometriche\\Punto.cs",
+              "RelativeDocumentMoniker": "FigureGeometriche\\Punto.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\FigureGeometriche\\FigureGeometriche\\Punto.cs",
+              "RelativeToolTip": "FigureGeometriche\\Punto.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:37:34.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangolo.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\FigureGeometriche\\FigureGeometriche\\Triangolo.cs",
+              "RelativeDocumentMoniker": "FigureGeometriche\\Triangolo.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\FigureGeometriche\\FigureGeometriche\\Triangolo.cs",
+              "RelativeToolTip": "FigureGeometriche\\Triangolo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAWwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:17:56.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rettangolo.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\FigureGeometriche\\FigureGeometriche\\Rettangolo.cs",
+              "RelativeDocumentMoniker": "FigureGeometriche\\Rettangolo.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\FigureGeometriche\\FigureGeometriche\\Rettangolo.cs",
+              "RelativeToolTip": "FigureGeometriche\\Rettangolo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:54:46.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cerchio.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\FigureGeometriche\\FigureGeometriche\\Cerchio.cs",
+              "RelativeDocumentMoniker": "FigureGeometriche\\Cerchio.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\FigureGeometriche\\FigureGeometriche\\Cerchio.cs",
+              "RelativeToolTip": "FigureGeometriche\\Cerchio.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwCYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:36:54.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quadrato.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\FigureGeometriche\\FigureGeometriche\\Quadrato.cs",
+              "RelativeDocumentMoniker": "FigureGeometriche\\Quadrato.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\FigureGeometriche\\FigureGeometriche\\Quadrato.cs",
+              "RelativeToolTip": "FigureGeometriche\\Quadrato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:18:26.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\FigureGeometriche\\FigureGeometriche\\Program.cs",
+              "RelativeDocumentMoniker": "FigureGeometriche\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\FigureGeometriche\\FigureGeometriche\\Program.cs",
+              "RelativeToolTip": "FigureGeometriche\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:09:28.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

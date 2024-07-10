@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD8A0F5-CAED-4FF9-BD78-A6E33FB30994}|Azienda\\Azienda.csproj|c:\\users\\icts23-25.163\\desktop\\projects\\c#\\azienda\\azienda\\dipendentibiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD8A0F5-CAED-4FF9-BD78-A6E33FB30994}|Azienda\\Azienda.csproj|solutionrelative:azienda\\dipendentibiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD8A0F5-CAED-4FF9-BD78-A6E33FB30994}|Azienda\\Azienda.csproj|c:\\users\\icts23-25.163\\desktop\\projects\\c#\\azienda\\azienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD8A0F5-CAED-4FF9-BD78-A6E33FB30994}|Azienda\\Azienda.csproj|solutionrelative:azienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD8A0F5-CAED-4FF9-BD78-A6E33FB30994}|Azienda\\Azienda.csproj|c:\\users\\icts23-25.163\\desktop\\projects\\c#\\azienda\\azienda\\operaio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD8A0F5-CAED-4FF9-BD78-A6E33FB30994}|Azienda\\Azienda.csproj|solutionrelative:azienda\\operaio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD8A0F5-CAED-4FF9-BD78-A6E33FB30994}|Azienda\\Azienda.csproj|c:\\users\\icts23-25.163\\desktop\\projects\\c#\\azienda\\azienda\\specializzato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD8A0F5-CAED-4FF9-BD78-A6E33FB30994}|Azienda\\Azienda.csproj|solutionrelative:azienda\\specializzato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD8A0F5-CAED-4FF9-BD78-A6E33FB30994}|Azienda\\Azienda.csproj|c:\\users\\icts23-25.163\\desktop\\projects\\c#\\azienda\\azienda\\settore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD8A0F5-CAED-4FF9-BD78-A6E33FB30994}|Azienda\\Azienda.csproj|solutionrelative:azienda\\settore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD8A0F5-CAED-4FF9-BD78-A6E33FB30994}|Azienda\\Azienda.csproj|c:\\users\\icts23-25.163\\desktop\\projects\\c#\\azienda\\azienda\\amministrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD8A0F5-CAED-4FF9-BD78-A6E33FB30994}|Azienda\\Azienda.csproj|solutionrelative:azienda\\amministrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD8A0F5-CAED-4FF9-BD78-A6E33FB30994}|Azienda\\Azienda.csproj|c:\\users\\icts23-25.163\\desktop\\projects\\c#\\azienda\\azienda\\mansione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD8A0F5-CAED-4FF9-BD78-A6E33FB30994}|Azienda\\Azienda.csproj|solutionrelative:azienda\\mansione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD8A0F5-CAED-4FF9-BD78-A6E33FB30994}|Azienda\\Azienda.csproj|c:\\users\\icts23-25.163\\desktop\\projects\\c#\\azienda\\azienda\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD8A0F5-CAED-4FF9-BD78-A6E33FB30994}|Azienda\\Azienda.csproj|solutionrelative:azienda\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DipendentiBiz.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\Azienda\\DipendentiBiz.cs",
+              "RelativeDocumentMoniker": "Azienda\\DipendentiBiz.cs",
+              "ToolTip": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\Azienda\\DipendentiBiz.cs",
+              "RelativeToolTip": "Azienda\\DipendentiBiz.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAzwDYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:29:24.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Specializzato.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\Azienda\\Specializzato.cs",
+              "RelativeDocumentMoniker": "Azienda\\Specializzato.cs",
+              "ToolTip": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\Azienda\\Specializzato.cs",
+              "RelativeToolTip": "Azienda\\Specializzato.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:20:14.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settore.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\Azienda\\Settore.cs",
+              "RelativeDocumentMoniker": "Azienda\\Settore.cs",
+              "ToolTip": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\Azienda\\Settore.cs",
+              "RelativeToolTip": "Azienda\\Settore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:16:43.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operaio.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\Azienda\\Operaio.cs",
+              "RelativeDocumentMoniker": "Azienda\\Operaio.cs",
+              "ToolTip": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\Azienda\\Operaio.cs",
+              "RelativeToolTip": "Azienda\\Operaio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:15:50.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mansione.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\Azienda\\Mansione.cs",
+              "RelativeDocumentMoniker": "Azienda\\Mansione.cs",
+              "ToolTip": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\Azienda\\Mansione.cs",
+              "RelativeToolTip": "Azienda\\Mansione.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:56:52.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Amministrativo.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\Azienda\\Amministrativo.cs",
+              "RelativeDocumentMoniker": "Azienda\\Amministrativo.cs",
+              "ToolTip": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\Azienda\\Amministrativo.cs",
+              "RelativeToolTip": "Azienda\\Amministrativo.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:37:37.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dipendente.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\Azienda\\Dipendente.cs",
+              "RelativeDocumentMoniker": "Azienda\\Dipendente.cs",
+              "ToolTip": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\Azienda\\Dipendente.cs",
+              "RelativeToolTip": "Azienda\\Dipendente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:24:16.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\Azienda\\Program.cs",
+              "RelativeDocumentMoniker": "Azienda\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.163\\Desktop\\Projects\\C#\\Azienda\\Azienda\\Program.cs",
+              "RelativeToolTip": "Azienda\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBwAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:23:32.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

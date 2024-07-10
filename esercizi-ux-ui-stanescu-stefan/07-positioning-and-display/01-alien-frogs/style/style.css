@@ -1,0 +1,101 @@
+html{
+    box-sizing: border-box;
+}
+
+*,*::before,*::after{
+    box-sizing: inherit;
+}
+
+.frog{
+    display: inline-block;
+    margin: 20px;
+    cursor:pointer;
+}
+
+
+.type1{
+    background-color: orange;
+}
+
+.type2{
+    background-color:darkseagreen;
+}
+
+.big #text{
+    vertical-align: top;
+}
+
+.type2.small::before, .type2.small::after{
+    background-color: green;
+}
+
+.small{
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 20px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.small::before, .small::after{
+    content: "o";
+    border-radius: 50%;
+    padding: 0px 4px 0px 4px;
+    margin-top: 1px;
+    border-width: 1px;
+    background-color: orangered;
+    border-style: solid;
+    position: relative;
+    bottom: 30px;
+}
+
+.small::before{
+    right: 25px;
+}
+
+.small::after{
+    left: 25px;
+}
+
+.big{
+    width: 120px;
+    height: 45px;
+    border-radius: 5px;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    position: relative;
+    bottom: 25px;
+    /*   transform: translateY(-20px); */
+}
+
+.big::before, .big::after{
+    content: "o";
+    border-radius: 50%;
+    padding: 0px 4px 0px 4px;
+    margin-top: 1px;
+    border-width: 1px;
+    background-color: rgb(252, 150, 66);
+    border-style: solid;
+    position: relative;
+    bottom: 10px;
+}
+
+.type2.big::before, .type2.big::after{
+    background-color: rgb(154, 247, 142);
+}
+
+.big::before{
+    right: 45px;
+}    
+
+.big::after{
+    left: 45px;
+}
+
+.frog:hover::before, .frog:hover::after{
+    background-color: black;
+    color:white;
+}

@@ -1,0 +1,23 @@
+a {
+    color:red;
+}
+li a{
+    color: rgba(0, 196, 33, 0.904);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p a{
+    color:rgba(0, 13, 196, 0.904);
+    font-family: 'Trade Winds';
+}
+
+a:link {
+    font-size: large;
+}
+
+a:visited {
+    font-size: small;
+    }
+
+h1,h2,h3,h4{
+    background-color: blueviolet;
+}

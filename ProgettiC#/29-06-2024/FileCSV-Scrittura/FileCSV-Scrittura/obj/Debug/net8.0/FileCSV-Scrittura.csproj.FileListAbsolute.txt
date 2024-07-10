@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\29-06-2024\FileCSV-Scrittura\FileCSV-Scrittura\bin\Debug\net8.0\FileCSV-Scrittura.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\29-06-2024\FileCSV-Scrittura\FileCSV-Scrittura\bin\Debug\net8.0\FileCSV-Scrittura.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\29-06-2024\FileCSV-Scrittura\FileCSV-Scrittura\bin\Debug\net8.0\FileCSV-Scrittura.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\29-06-2024\FileCSV-Scrittura\FileCSV-Scrittura\bin\Debug\net8.0\FileCSV-Scrittura.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\29-06-2024\FileCSV-Scrittura\FileCSV-Scrittura\bin\Debug\net8.0\FileCSV-Scrittura.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\29-06-2024\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\FileCSV-Scrittura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\29-06-2024\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\FileCSV-Scrittura.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\29-06-2024\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\FileCSV-Scrittura.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\29-06-2024\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\FileCSV-Scrittura.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\29-06-2024\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\FileCSV-Scrittura.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\29-06-2024\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\refint\FileCSV-Scrittura.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\29-06-2024\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\FileCSV-Scrittura.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\29-06-2024\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\FileCSV-Scrittura.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\29-06-2024\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\ref\FileCSV-Scrittura.dll

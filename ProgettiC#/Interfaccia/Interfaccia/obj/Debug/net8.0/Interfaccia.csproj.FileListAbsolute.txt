@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\source\repos\Interfaccia\Interfaccia\bin\Debug\net8.0\Interfaccia.exe
+C:\Users\icts23-25.097\source\repos\Interfaccia\Interfaccia\bin\Debug\net8.0\Interfaccia.deps.json
+C:\Users\icts23-25.097\source\repos\Interfaccia\Interfaccia\bin\Debug\net8.0\Interfaccia.runtimeconfig.json
+C:\Users\icts23-25.097\source\repos\Interfaccia\Interfaccia\bin\Debug\net8.0\Interfaccia.dll
+C:\Users\icts23-25.097\source\repos\Interfaccia\Interfaccia\bin\Debug\net8.0\Interfaccia.pdb
+C:\Users\icts23-25.097\source\repos\Interfaccia\Interfaccia\obj\Debug\net8.0\Interfaccia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\source\repos\Interfaccia\Interfaccia\obj\Debug\net8.0\Interfaccia.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\source\repos\Interfaccia\Interfaccia\obj\Debug\net8.0\Interfaccia.AssemblyInfo.cs
+C:\Users\icts23-25.097\source\repos\Interfaccia\Interfaccia\obj\Debug\net8.0\Interfaccia.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\source\repos\Interfaccia\Interfaccia\obj\Debug\net8.0\Interfaccia.dll
+C:\Users\icts23-25.097\source\repos\Interfaccia\Interfaccia\obj\Debug\net8.0\refint\Interfaccia.dll
+C:\Users\icts23-25.097\source\repos\Interfaccia\Interfaccia\obj\Debug\net8.0\Interfaccia.pdb
+C:\Users\icts23-25.097\source\repos\Interfaccia\Interfaccia\obj\Debug\net8.0\Interfaccia.genruntimeconfig.cache
+C:\Users\icts23-25.097\source\repos\Interfaccia\Interfaccia\obj\Debug\net8.0\ref\Interfaccia.dll

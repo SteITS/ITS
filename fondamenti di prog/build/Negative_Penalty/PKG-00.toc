@@ -1,0 +1,59 @@
+('C:\\Users\\icts23-25.097\\Desktop\\fondamenti di '
+ 'prog\\build\\Negative_Penalty\\Negative_Penalty.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\icts23-25.097\\Desktop\\fondamenti di '
+   'prog\\build\\Negative_Penalty\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\icts23-25.097\\Desktop\\fondamenti di '
+   'prog\\build\\Negative_Penalty\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\icts23-25.097\\Desktop\\fondamenti di '
+   'prog\\build\\Negative_Penalty\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\icts23-25.097\\Desktop\\fondamenti di '
+   'prog\\build\\Negative_Penalty\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\icts23-25.097\\Desktop\\fondamenti di '
+   'prog\\build\\Negative_Penalty\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\icts23-25.097\\Desktop\\fondamenti di '
+   'prog\\build\\Negative_Penalty\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\Users\\icts23-25.097\\Desktop\\fondamenti di '
+   'prog\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\icts23-25.097\\Desktop\\fondamenti di '
+   'prog\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\icts23-25.097\\Desktop\\fondamenti di '
+   'prog\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('Negative_Penalty',
+   'C:\\Users\\icts23-25.097\\Desktop\\fondamenti di prog\\Negative_Penalty.py',
+   'PYSOURCE')],
+ 'python312.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

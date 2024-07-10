@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayStringhe\bin\Debug\net8.0\ArrayStringhe.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayStringhe\bin\Debug\net8.0\ArrayStringhe.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayStringhe\bin\Debug\net8.0\ArrayStringhe.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayStringhe\bin\Debug\net8.0\ArrayStringhe.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayStringhe\bin\Debug\net8.0\ArrayStringhe.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayStringhe\obj\Debug\net8.0\ArrayStringhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayStringhe\obj\Debug\net8.0\ArrayStringhe.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayStringhe\obj\Debug\net8.0\ArrayStringhe.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayStringhe\obj\Debug\net8.0\ArrayStringhe.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayStringhe\obj\Debug\net8.0\ArrayStringhe.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayStringhe\obj\Debug\net8.0\refint\ArrayStringhe.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayStringhe\obj\Debug\net8.0\ArrayStringhe.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayStringhe\obj\Debug\net8.0\ArrayStringhe.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Array\ArrayStringhe\obj\Debug\net8.0\ref\ArrayStringhe.dll

@@ -1,0 +1,15 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Benvenuto\Benvenuto\bin\Debug\net7.0\Benvenuto.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Benvenuto\Benvenuto\bin\Debug\net7.0\Benvenuto.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Benvenuto\Benvenuto\bin\Debug\net7.0\Benvenuto.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Benvenuto\Benvenuto\bin\Debug\net7.0\Benvenuto.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Benvenuto\Benvenuto\bin\Debug\net7.0\Benvenuto.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Benvenuto\Benvenuto\obj\Debug\net7.0\Benvenuto.csproj.AssemblyReference.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Benvenuto\Benvenuto\obj\Debug\net7.0\Benvenuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Benvenuto\Benvenuto\obj\Debug\net7.0\Benvenuto.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Benvenuto\Benvenuto\obj\Debug\net7.0\Benvenuto.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Benvenuto\Benvenuto\obj\Debug\net7.0\Benvenuto.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Benvenuto\Benvenuto\obj\Debug\net7.0\Benvenuto.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Benvenuto\Benvenuto\obj\Debug\net7.0\refint\Benvenuto.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Benvenuto\Benvenuto\obj\Debug\net7.0\Benvenuto.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Benvenuto\Benvenuto\obj\Debug\net7.0\Benvenuto.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Benvenuto\Benvenuto\obj\Debug\net7.0\ref\Benvenuto.dll

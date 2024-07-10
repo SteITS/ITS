@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\ClassiAstratte\Solidi\bin\Debug\net8.0\Solidi.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\ClassiAstratte\Solidi\bin\Debug\net8.0\Solidi.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\ClassiAstratte\Solidi\bin\Debug\net8.0\Solidi.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\ClassiAstratte\Solidi\bin\Debug\net8.0\Solidi.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\ClassiAstratte\Solidi\bin\Debug\net8.0\Solidi.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\ClassiAstratte\Solidi\obj\Debug\net8.0\Solidi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\ClassiAstratte\Solidi\obj\Debug\net8.0\Solidi.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\ClassiAstratte\Solidi\obj\Debug\net8.0\Solidi.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\ClassiAstratte\Solidi\obj\Debug\net8.0\Solidi.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\ClassiAstratte\Solidi\obj\Debug\net8.0\Solidi.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\ClassiAstratte\Solidi\obj\Debug\net8.0\refint\Solidi.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\ClassiAstratte\Solidi\obj\Debug\net8.0\Solidi.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\ClassiAstratte\Solidi\obj\Debug\net8.0\Solidi.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\ClassiAstratte\Solidi\obj\Debug\net8.0\ref\Solidi.dll

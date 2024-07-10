@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\VenditaProdotti\VenditaProdotti\bin\Debug\net8.0\VenditaProdotti.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\VenditaProdotti\VenditaProdotti\bin\Debug\net8.0\VenditaProdotti.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\VenditaProdotti\VenditaProdotti\bin\Debug\net8.0\VenditaProdotti.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\VenditaProdotti\VenditaProdotti\bin\Debug\net8.0\VenditaProdotti.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\VenditaProdotti\VenditaProdotti\bin\Debug\net8.0\VenditaProdotti.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\VenditaProdotti\VenditaProdotti\obj\Debug\net8.0\VenditaProdotti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\VenditaProdotti\VenditaProdotti\obj\Debug\net8.0\VenditaProdotti.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\VenditaProdotti\VenditaProdotti\obj\Debug\net8.0\VenditaProdotti.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\VenditaProdotti\VenditaProdotti\obj\Debug\net8.0\VenditaProdotti.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\VenditaProdotti\VenditaProdotti\obj\Debug\net8.0\VenditaProdotti.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\VenditaProdotti\VenditaProdotti\obj\Debug\net8.0\refint\VenditaProdotti.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\VenditaProdotti\VenditaProdotti\obj\Debug\net8.0\VenditaProdotti.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\VenditaProdotti\VenditaProdotti\obj\Debug\net8.0\VenditaProdotti.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\VenditaProdotti\VenditaProdotti\obj\Debug\net8.0\ref\VenditaProdotti.dll

@@ -1,0 +1,16 @@
+package com.stwfy.entities;
+
+import jakarta.persistence.Id;
+
+public class Brawler {
+	@Id
+	private int id;
+	
+	private String nome;
+	private String carattere;
+	private String rarity;
+	
+	
+	
+
+}

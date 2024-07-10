@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FileCSV-Lettura\FileCSV-Lettura\bin\Debug\net8.0\FileCSV-Lettura.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FileCSV-Lettura\FileCSV-Lettura\bin\Debug\net8.0\FileCSV-Lettura.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FileCSV-Lettura\FileCSV-Lettura\bin\Debug\net8.0\FileCSV-Lettura.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FileCSV-Lettura\FileCSV-Lettura\bin\Debug\net8.0\FileCSV-Lettura.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FileCSV-Lettura\FileCSV-Lettura\bin\Debug\net8.0\FileCSV-Lettura.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FileCSV-Lettura\FileCSV-Lettura\obj\Debug\net8.0\FileCSV-Lettura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FileCSV-Lettura\FileCSV-Lettura\obj\Debug\net8.0\FileCSV-Lettura.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FileCSV-Lettura\FileCSV-Lettura\obj\Debug\net8.0\FileCSV-Lettura.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FileCSV-Lettura\FileCSV-Lettura\obj\Debug\net8.0\FileCSV-Lettura.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FileCSV-Lettura\FileCSV-Lettura\obj\Debug\net8.0\FileCSV-Lettura.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FileCSV-Lettura\FileCSV-Lettura\obj\Debug\net8.0\refint\FileCSV-Lettura.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FileCSV-Lettura\FileCSV-Lettura\obj\Debug\net8.0\FileCSV-Lettura.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FileCSV-Lettura\FileCSV-Lettura\obj\Debug\net8.0\FileCSV-Lettura.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FileCSV-Lettura\FileCSV-Lettura\obj\Debug\net8.0\ref\FileCSV-Lettura.dll

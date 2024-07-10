@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{824505F1-BBC7-47B4-94BB-ED1E2ED81CCB}|ArrayCasualiInteri\\ArrayCasualiInteri.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\array\\arraycasualiinteri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824505F1-BBC7-47B4-94BB-ED1E2ED81CCB}|ArrayCasualiInteri\\ArrayCasualiInteri.csproj|solutionrelative:arraycasualiinteri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDCF498-D7E6-482D-B984-2D45E80B31BE}|ArrayNumeriInteri\\ArrayNumeriInteri.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\array\\arraynumeriinteri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDCF498-D7E6-482D-B984-2D45E80B31BE}|ArrayNumeriInteri\\ArrayNumeriInteri.csproj|solutionrelative:arraynumeriinteri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{335F1245-A561-4FB2-A154-2F5B380691B5}|ArrayStringhe\\ArrayStringhe.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\array\\arraystringhe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{335F1245-A561-4FB2-A154-2F5B380691B5}|ArrayStringhe\\ArrayStringhe.csproj|solutionrelative:arraystringhe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Array\\ArrayCasualiInteri\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayCasualiInteri\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Array\\ArrayCasualiInteri\\Program.cs",
+              "RelativeToolTip": "ArrayCasualiInteri\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:33:24.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Array\\ArrayStringhe\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayStringhe\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Array\\ArrayStringhe\\Program.cs",
+              "RelativeToolTip": "ArrayStringhe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:25:42.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Array\\ArrayNumeriInteri\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayNumeriInteri\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Array\\ArrayNumeriInteri\\Program.cs",
+              "RelativeToolTip": "ArrayNumeriInteri\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:16:01.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

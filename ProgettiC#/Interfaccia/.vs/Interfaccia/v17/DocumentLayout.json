@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icts23-25.097\\source\\repos\\Interfaccia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81D2DBDF-1035-411A-A296-BD52E40F6911}|Interfaccia\\Interfaccia.csproj|c:\\users\\icts23-25.097\\source\\repos\\interfaccia\\interfaccia\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D2DBDF-1035-411A-A296-BD52E40F6911}|Interfaccia\\Interfaccia.csproj|solutionrelative:interfaccia\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D2DBDF-1035-411A-A296-BD52E40F6911}|Interfaccia\\Interfaccia.csproj|c:\\users\\icts23-25.097\\source\\repos\\interfaccia\\interfaccia\\interfacciagenerale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D2DBDF-1035-411A-A296-BD52E40F6911}|Interfaccia\\Interfaccia.csproj|solutionrelative:interfaccia\\interfacciagenerale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D2DBDF-1035-411A-A296-BD52E40F6911}|Interfaccia\\Interfaccia.csproj|c:\\users\\icts23-25.097\\source\\repos\\interfaccia\\interfaccia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D2DBDF-1035-411A-A296-BD52E40F6911}|Interfaccia\\Interfaccia.csproj|solutionrelative:interfaccia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D2DBDF-1035-411A-A296-BD52E40F6911}|Interfaccia\\Interfaccia.csproj|c:\\users\\icts23-25.097\\source\\repos\\interfaccia\\interfaccia\\interfaccia2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D2DBDF-1035-411A-A296-BD52E40F6911}|Interfaccia\\Interfaccia.csproj|solutionrelative:interfaccia\\interfaccia2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D2DBDF-1035-411A-A296-BD52E40F6911}|Interfaccia\\Interfaccia.csproj|c:\\users\\icts23-25.097\\source\\repos\\interfaccia\\interfaccia\\interfaccia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D2DBDF-1035-411A-A296-BD52E40F6911}|Interfaccia\\Interfaccia.csproj|solutionrelative:interfaccia\\interfaccia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterfacciaGenerale.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\Interfaccia\\Interfaccia\\InterfacciaGenerale.cs",
+              "RelativeDocumentMoniker": "Interfaccia\\InterfacciaGenerale.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\Interfaccia\\Interfaccia\\InterfacciaGenerale.cs",
+              "RelativeToolTip": "Interfaccia\\InterfacciaGenerale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:52:25.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Interfaccia2.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\Interfaccia\\Interfaccia\\Interfaccia2.cs",
+              "RelativeDocumentMoniker": "Interfaccia\\Interfaccia2.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\Interfaccia\\Interfaccia\\Interfaccia2.cs",
+              "RelativeToolTip": "Interfaccia\\Interfaccia2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:51:25.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\Interfaccia\\Interfaccia\\Class1.cs",
+              "RelativeDocumentMoniker": "Interfaccia\\Class1.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\Interfaccia\\Interfaccia\\Class1.cs",
+              "RelativeToolTip": "Interfaccia\\Class1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:46:26.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interfaccia.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\Interfaccia\\Interfaccia\\Interfaccia.cs",
+              "RelativeDocumentMoniker": "Interfaccia\\Interfaccia.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\Interfaccia\\Interfaccia\\Interfaccia.cs",
+              "RelativeToolTip": "Interfaccia\\Interfaccia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:40:01.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\Interfaccia\\Interfaccia\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaccia\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\Interfaccia\\Interfaccia\\Program.cs",
+              "RelativeToolTip": "Interfaccia\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:38:03.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

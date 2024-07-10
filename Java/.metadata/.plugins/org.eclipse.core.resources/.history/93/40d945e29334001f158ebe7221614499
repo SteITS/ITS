@@ -1,0 +1,19 @@
+package com.stwfy.services;
+
+import java.util.List;
+
+import com.stwfy.entities.Country;
+
+public interface CountryService {
+
+	List<Country> getCountryByName(String name);
+	List<Country> getCountryByCapital(String capital);
+	List<Country> getCountryByPopulation(int population);
+	Country getCountryById(int id);
+	
+	List<String> getNames();
+	List<String> getCapitals();
+	List<String> getPopulations();
+	List<Country> getCountries();
+	
+}

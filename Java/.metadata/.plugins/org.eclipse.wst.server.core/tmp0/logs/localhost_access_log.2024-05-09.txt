@@ -1,0 +1,2 @@
+127.0.0.1 - - [09/May/2024:15:36:50 +0200] "GET / HTTP/1.1" 404 752
+127.0.0.1 - - [09/May/2024:15:36:50 +0200] "GET /Prj08_FilmDB/WEB-INF/classes/db/Connessione.java HTTP/1.1" 404 683

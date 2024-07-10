@@ -1,0 +1,14 @@
+C:\Users\r.catalano\Desktop\ProgettiC#\FileCSV-Scrittura\FileCSV-Scrittura\bin\Debug\net8.0\FileCSV-Scrittura.exe
+C:\Users\r.catalano\Desktop\ProgettiC#\FileCSV-Scrittura\FileCSV-Scrittura\bin\Debug\net8.0\FileCSV-Scrittura.deps.json
+C:\Users\r.catalano\Desktop\ProgettiC#\FileCSV-Scrittura\FileCSV-Scrittura\bin\Debug\net8.0\FileCSV-Scrittura.runtimeconfig.json
+C:\Users\r.catalano\Desktop\ProgettiC#\FileCSV-Scrittura\FileCSV-Scrittura\bin\Debug\net8.0\FileCSV-Scrittura.dll
+C:\Users\r.catalano\Desktop\ProgettiC#\FileCSV-Scrittura\FileCSV-Scrittura\bin\Debug\net8.0\FileCSV-Scrittura.pdb
+C:\Users\r.catalano\Desktop\ProgettiC#\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\FileCSV-Scrittura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano\Desktop\ProgettiC#\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\FileCSV-Scrittura.AssemblyInfoInputs.cache
+C:\Users\r.catalano\Desktop\ProgettiC#\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\FileCSV-Scrittura.AssemblyInfo.cs
+C:\Users\r.catalano\Desktop\ProgettiC#\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\FileCSV-Scrittura.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano\Desktop\ProgettiC#\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\FileCSV-Scrittura.dll
+C:\Users\r.catalano\Desktop\ProgettiC#\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\refint\FileCSV-Scrittura.dll
+C:\Users\r.catalano\Desktop\ProgettiC#\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\FileCSV-Scrittura.pdb
+C:\Users\r.catalano\Desktop\ProgettiC#\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\FileCSV-Scrittura.genruntimeconfig.cache
+C:\Users\r.catalano\Desktop\ProgettiC#\FileCSV-Scrittura\FileCSV-Scrittura\obj\Debug\net8.0\ref\FileCSV-Scrittura.dll

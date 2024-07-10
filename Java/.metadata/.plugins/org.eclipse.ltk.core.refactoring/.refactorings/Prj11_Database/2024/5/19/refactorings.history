@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;split&apos; from expression &apos;riga.split(&quot;,&quot;)&apos;&#x0D;&#x0A;- Original project: &apos;Prj11_Database&apos;&#x0D;&#x0A;- Variable name: &apos;split&apos;&#x0D;&#x0A;- Destination method: &apos;repo.ProvaConnessione.main(...)&apos;&#x0D;&#x0A;- Variable expression: &apos;riga.split(&quot;,&quot;)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;split&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;repo{ProvaConnessione.java" name="split" replace="true" replaceAllInThisFile="false" selection="586 15" stamp="1715268423555" varType="false" version="1.0"/>
+</session>

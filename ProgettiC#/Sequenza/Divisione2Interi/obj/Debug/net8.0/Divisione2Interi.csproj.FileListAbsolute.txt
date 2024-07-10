@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Divisione2Interi\bin\Debug\net8.0\Divisione2Interi.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Divisione2Interi\bin\Debug\net8.0\Divisione2Interi.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Divisione2Interi\bin\Debug\net8.0\Divisione2Interi.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Divisione2Interi\bin\Debug\net8.0\Divisione2Interi.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Divisione2Interi\bin\Debug\net8.0\Divisione2Interi.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Divisione2Interi\obj\Debug\net8.0\Divisione2Interi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Divisione2Interi\obj\Debug\net8.0\Divisione2Interi.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Divisione2Interi\obj\Debug\net8.0\Divisione2Interi.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Divisione2Interi\obj\Debug\net8.0\Divisione2Interi.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Divisione2Interi\obj\Debug\net8.0\Divisione2Interi.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Divisione2Interi\obj\Debug\net8.0\refint\Divisione2Interi.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Divisione2Interi\obj\Debug\net8.0\Divisione2Interi.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Divisione2Interi\obj\Debug\net8.0\Divisione2Interi.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Divisione2Interi\obj\Debug\net8.0\ref\Divisione2Interi.dll

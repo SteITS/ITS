@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\r.catalano\\Desktop\\ProgettiC#\\FileCSV-Scrittura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFECFC2-3783-42F1-9D5F-E2E9CBF03FFC}|FileCSV-Scrittura\\FileCSV-Scrittura.csproj|c:\\users\\r.catalano\\desktop\\progettic#\\filecsv-scrittura\\filecsv-scrittura\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFECFC2-3783-42F1-9D5F-E2E9CBF03FFC}|FileCSV-Scrittura\\FileCSV-Scrittura.csproj|solutionrelative:filecsv-scrittura\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFECFC2-3783-42F1-9D5F-E2E9CBF03FFC}|FileCSV-Scrittura\\FileCSV-Scrittura.csproj|c:\\users\\r.catalano\\desktop\\progettic#\\filecsv-scrittura\\filecsv-scrittura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFECFC2-3783-42F1-9D5F-E2E9CBF03FFC}|FileCSV-Scrittura\\FileCSV-Scrittura.csproj|solutionrelative:filecsv-scrittura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFECFC2-3783-42F1-9D5F-E2E9CBF03FFC}|FileCSV-Scrittura\\FileCSV-Scrittura.csproj|c:\\users\\r.catalano\\desktop\\progettic#\\filecsv-scrittura\\filecsv-scrittura\\sesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFECFC2-3783-42F1-9D5F-E2E9CBF03FFC}|FileCSV-Scrittura\\FileCSV-Scrittura.csproj|solutionrelative:filecsv-scrittura\\sesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sesso.cs",
+              "DocumentMoniker": "C:\\Users\\r.catalano\\Desktop\\ProgettiC#\\FileCSV-Scrittura\\FileCSV-Scrittura\\Sesso.cs",
+              "RelativeDocumentMoniker": "FileCSV-Scrittura\\Sesso.cs",
+              "ToolTip": "C:\\Users\\r.catalano\\Desktop\\ProgettiC#\\FileCSV-Scrittura\\FileCSV-Scrittura\\Sesso.cs",
+              "RelativeToolTip": "FileCSV-Scrittura\\Sesso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:57:27.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\r.catalano\\Desktop\\ProgettiC#\\FileCSV-Scrittura\\FileCSV-Scrittura\\Persona.cs",
+              "RelativeDocumentMoniker": "FileCSV-Scrittura\\Persona.cs",
+              "ToolTip": "C:\\Users\\r.catalano\\Desktop\\ProgettiC#\\FileCSV-Scrittura\\FileCSV-Scrittura\\Persona.cs",
+              "RelativeToolTip": "FileCSV-Scrittura\\Persona.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:53:36.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\r.catalano\\Desktop\\ProgettiC#\\FileCSV-Scrittura\\FileCSV-Scrittura\\Program.cs",
+              "RelativeDocumentMoniker": "FileCSV-Scrittura\\Program.cs",
+              "ToolTip": "C:\\Users\\r.catalano\\Desktop\\ProgettiC#\\FileCSV-Scrittura\\FileCSV-Scrittura\\Program.cs",
+              "RelativeToolTip": "FileCSV-Scrittura\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:51:56.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

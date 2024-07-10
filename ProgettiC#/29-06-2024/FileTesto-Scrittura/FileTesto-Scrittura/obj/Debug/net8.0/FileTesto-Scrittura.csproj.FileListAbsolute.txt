@@ -1,0 +1,14 @@
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Scrittura\FileTesto-Scrittura\bin\Debug\net8.0\FileTesto-Scrittura.exe
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Scrittura\FileTesto-Scrittura\bin\Debug\net8.0\FileTesto-Scrittura.deps.json
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Scrittura\FileTesto-Scrittura\bin\Debug\net8.0\FileTesto-Scrittura.runtimeconfig.json
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Scrittura\FileTesto-Scrittura\bin\Debug\net8.0\FileTesto-Scrittura.dll
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Scrittura\FileTesto-Scrittura\bin\Debug\net8.0\FileTesto-Scrittura.pdb
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Scrittura\FileTesto-Scrittura\obj\Debug\net8.0\FileTesto-Scrittura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Scrittura\FileTesto-Scrittura\obj\Debug\net8.0\FileTesto-Scrittura.AssemblyInfoInputs.cache
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Scrittura\FileTesto-Scrittura\obj\Debug\net8.0\FileTesto-Scrittura.AssemblyInfo.cs
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Scrittura\FileTesto-Scrittura\obj\Debug\net8.0\FileTesto-Scrittura.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Scrittura\FileTesto-Scrittura\obj\Debug\net8.0\FileTesto-Scrittura.dll
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Scrittura\FileTesto-Scrittura\obj\Debug\net8.0\refint\FileTesto-Scrittura.dll
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Scrittura\FileTesto-Scrittura\obj\Debug\net8.0\FileTesto-Scrittura.pdb
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Scrittura\FileTesto-Scrittura\obj\Debug\net8.0\FileTesto-Scrittura.genruntimeconfig.cache
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Scrittura\FileTesto-Scrittura\obj\Debug\net8.0\ref\FileTesto-Scrittura.dll

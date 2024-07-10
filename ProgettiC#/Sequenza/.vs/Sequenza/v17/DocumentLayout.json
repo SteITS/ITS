@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Sequenza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D10EF60F-AFA6-4B53-AB3C-9F727129ABC3}|FatturaLiberaProfessione\\FatturaLiberaProfessione.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\sequenza\\fatturaliberaprofessione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D10EF60F-AFA6-4B53-AB3C-9F727129ABC3}|FatturaLiberaProfessione\\FatturaLiberaProfessione.csproj|solutionrelative:fatturaliberaprofessione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9451375A-1D31-4E10-998A-CBCC4A9AD310}|PrezzoQuantitaSconto\\PrezzoQuantitaSconto.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\sequenza\\prezzoquantitasconto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9451375A-1D31-4E10-998A-CBCC4A9AD310}|PrezzoQuantitaSconto\\PrezzoQuantitaSconto.csproj|solutionrelative:prezzoquantitasconto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53A81F1-906F-4968-83AC-1BA60A4FD930}|Somma2Interi\\Somma2Interi.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\sequenza\\somma2interi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53A81F1-906F-4968-83AC-1BA60A4FD930}|Somma2Interi\\Somma2Interi.csproj|solutionrelative:somma2interi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA83D8A-DF2B-42A7-BFF2-7304FC9861DC}|Divisione2Interi\\Divisione2Interi.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\sequenza\\divisione2interi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA83D8A-DF2B-42A7-BFF2-7304FC9861DC}|Divisione2Interi\\Divisione2Interi.csproj|solutionrelative:divisione2interi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75777F70-05FB-49F9-AC0C-B60F4C07830D}|PrezzoQuantita\\PrezzoQuantita.csproj|c:\\users\\icts23-25.097\\desktop\\progettic#\\sequenza\\prezzoquantita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75777F70-05FB-49F9-AC0C-B60F4C07830D}|PrezzoQuantita\\PrezzoQuantita.csproj|solutionrelative:prezzoquantita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Sequenza\\Somma2Interi\\Program.cs",
+              "RelativeDocumentMoniker": "Somma2Interi\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Sequenza\\Somma2Interi\\Program.cs",
+              "RelativeToolTip": "Somma2Interi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:28:17.101Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Sequenza\\PrezzoQuantitaSconto\\Program.cs",
+              "RelativeDocumentMoniker": "PrezzoQuantitaSconto\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Sequenza\\PrezzoQuantitaSconto\\Program.cs",
+              "RelativeToolTip": "PrezzoQuantitaSconto\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:11:54.889Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Sequenza\\FatturaLiberaProfessione\\Program.cs",
+              "RelativeDocumentMoniker": "FatturaLiberaProfessione\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Sequenza\\FatturaLiberaProfessione\\Program.cs",
+              "RelativeToolTip": "FatturaLiberaProfessione\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:37:55.696Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Sequenza\\PrezzoQuantita\\Program.cs",
+              "RelativeDocumentMoniker": "PrezzoQuantita\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Sequenza\\PrezzoQuantita\\Program.cs",
+              "RelativeToolTip": "PrezzoQuantita\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:51:32.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Sequenza\\Divisione2Interi\\Program.cs",
+              "RelativeDocumentMoniker": "Divisione2Interi\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\Sequenza\\Divisione2Interi\\Program.cs",
+              "RelativeToolTip": "Divisione2Interi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:34:41.027Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

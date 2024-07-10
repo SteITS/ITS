@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\SequenzaLancioDadi\obj\Debug\net8.0\SequenzaLancioDadi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\SequenzaLancioDadi\obj\Debug\net8.0\SequenzaLancioDadi.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\SequenzaLancioDadi\obj\Debug\net8.0\SequenzaLancioDadi.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\SequenzaLancioDadi\obj\Debug\net8.0\SequenzaLancioDadi.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\SequenzaLancioDadi\bin\Debug\net8.0\SequenzaLancioDadi.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\SequenzaLancioDadi\bin\Debug\net8.0\SequenzaLancioDadi.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\SequenzaLancioDadi\bin\Debug\net8.0\SequenzaLancioDadi.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\SequenzaLancioDadi\bin\Debug\net8.0\SequenzaLancioDadi.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\SequenzaLancioDadi\bin\Debug\net8.0\SequenzaLancioDadi.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\SequenzaLancioDadi\obj\Debug\net8.0\SequenzaLancioDadi.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\SequenzaLancioDadi\obj\Debug\net8.0\refint\SequenzaLancioDadi.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\SequenzaLancioDadi\obj\Debug\net8.0\SequenzaLancioDadi.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\SequenzaLancioDadi\obj\Debug\net8.0\SequenzaLancioDadi.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\SequenzaLancioDadi\obj\Debug\net8.0\ref\SequenzaLancioDadi.dll

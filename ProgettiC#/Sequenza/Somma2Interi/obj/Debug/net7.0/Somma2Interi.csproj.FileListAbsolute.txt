@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Somma2Interi\obj\Debug\net7.0\Somma2Interi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Somma2Interi\obj\Debug\net7.0\Somma2Interi.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Somma2Interi\obj\Debug\net7.0\Somma2Interi.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Somma2Interi\obj\Debug\net7.0\Somma2Interi.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Somma2Interi\bin\Debug\net7.0\Somma2Interi.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Somma2Interi\bin\Debug\net7.0\Somma2Interi.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Somma2Interi\bin\Debug\net7.0\Somma2Interi.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Somma2Interi\bin\Debug\net7.0\Somma2Interi.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Somma2Interi\bin\Debug\net7.0\Somma2Interi.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Somma2Interi\obj\Debug\net7.0\Somma2Interi.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Somma2Interi\obj\Debug\net7.0\refint\Somma2Interi.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Somma2Interi\obj\Debug\net7.0\Somma2Interi.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Somma2Interi\obj\Debug\net7.0\Somma2Interi.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Sequenza\Somma2Interi\obj\Debug\net7.0\ref\Somma2Interi.dll

@@ -1,0 +1,80 @@
+img{
+    margin: 20% auto 50% auto;
+    display: none;
+}
+@media screen and (min-width: 1200px){
+
+    body{
+      background-color: rgb(0, 255, 221);
+    }
+    body::before{
+      content: "Omone";
+    }
+    div img:nth-of-type(1){
+        display: block;
+    }
+
+}
+@media screen and (min-width: 992px) and (max-width: 1199px){
+  body{
+    background-color: rgb(2, 204, 177);
+  }
+  body::before{
+    content: "Omo";
+  }
+  div img:nth-of-type(1){
+    display: none;
+}
+  div img:nth-of-type(2){
+      display: block;
+  }
+}
+
+@media screen and (min-width: 700px) and (max-width: 991px){
+  body{
+    background-color: rgb(0, 161, 140);
+  }
+  body::before{
+    content: "Ometto";
+  }
+    
+  div img:nth-of-type(2){
+    display: none;
+}
+  div img:nth-of-type(3){
+      display: block;
+  }
+
+}
+
+@media screen and (min-width: 500px) and (max-width: 699px){
+  body{
+    background-color: rgb(0, 116, 100);
+  }
+  body::before{
+    content: "Omino";
+  }
+  div img:nth-of-type(3){
+    display: none;
+}
+  div img:nth-of-type(4){
+      display: block;
+  }
+}
+
+@media screen and (min-width: 100px) and (max-width: 499px){
+  body{
+    background-color: rgb(0, 82, 71);
+  } 
+  body::before{
+    content: "....................";
+    color: white;
+  }
+  div img:nth-of-type(4){
+    display: none;
+}
+  div img:nth-of-type(5){
+      display: block;
+  }
+}
+

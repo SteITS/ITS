@@ -1,0 +1,7 @@
+package com.stwfy.repos;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface PaesiDAO extends JpaRepository<T, ID> {
+
+}

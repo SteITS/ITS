@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\NumeroPrimo\bin\Debug\net8.0\NumeroPrimo.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\NumeroPrimo\bin\Debug\net8.0\NumeroPrimo.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\NumeroPrimo\bin\Debug\net8.0\NumeroPrimo.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\NumeroPrimo\bin\Debug\net8.0\NumeroPrimo.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\NumeroPrimo\bin\Debug\net8.0\NumeroPrimo.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\NumeroPrimo\obj\Debug\net8.0\NumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\NumeroPrimo\obj\Debug\net8.0\NumeroPrimo.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\NumeroPrimo\obj\Debug\net8.0\NumeroPrimo.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\NumeroPrimo\obj\Debug\net8.0\NumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\NumeroPrimo\obj\Debug\net8.0\NumeroPrimo.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\NumeroPrimo\obj\Debug\net8.0\refint\NumeroPrimo.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\NumeroPrimo\obj\Debug\net8.0\NumeroPrimo.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\NumeroPrimo\obj\Debug\net8.0\NumeroPrimo.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\Iterazione\NumeroPrimo\obj\Debug\net8.0\ref\NumeroPrimo.dll

@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FigureGeometriche\FigureGeometriche\bin\Debug\net8.0\FigureGeometriche.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FigureGeometriche\FigureGeometriche\bin\Debug\net8.0\FigureGeometriche.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FigureGeometriche\FigureGeometriche\bin\Debug\net8.0\FigureGeometriche.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FigureGeometriche\FigureGeometriche\bin\Debug\net8.0\FigureGeometriche.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FigureGeometriche\FigureGeometriche\bin\Debug\net8.0\FigureGeometriche.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\refint\FigureGeometriche.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\ref\FigureGeometriche.dll

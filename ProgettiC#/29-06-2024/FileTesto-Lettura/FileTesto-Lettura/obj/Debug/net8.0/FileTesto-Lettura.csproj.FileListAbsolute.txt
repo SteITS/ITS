@@ -1,0 +1,14 @@
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Lettura\FileTesto-Lettura\bin\Debug\net8.0\FileTesto-Lettura.exe
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Lettura\FileTesto-Lettura\bin\Debug\net8.0\FileTesto-Lettura.deps.json
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Lettura\FileTesto-Lettura\bin\Debug\net8.0\FileTesto-Lettura.runtimeconfig.json
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Lettura\FileTesto-Lettura\bin\Debug\net8.0\FileTesto-Lettura.dll
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Lettura\FileTesto-Lettura\bin\Debug\net8.0\FileTesto-Lettura.pdb
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Lettura\FileTesto-Lettura\obj\Debug\net8.0\FileTesto-Lettura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Lettura\FileTesto-Lettura\obj\Debug\net8.0\FileTesto-Lettura.AssemblyInfoInputs.cache
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Lettura\FileTesto-Lettura\obj\Debug\net8.0\FileTesto-Lettura.AssemblyInfo.cs
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Lettura\FileTesto-Lettura\obj\Debug\net8.0\FileTesto-Lettura.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Lettura\FileTesto-Lettura\obj\Debug\net8.0\FileTesto-Lettura.dll
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Lettura\FileTesto-Lettura\obj\Debug\net8.0\refint\FileTesto-Lettura.dll
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Lettura\FileTesto-Lettura\obj\Debug\net8.0\FileTesto-Lettura.pdb
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Lettura\FileTesto-Lettura\obj\Debug\net8.0\FileTesto-Lettura.genruntimeconfig.cache
+C:\Users\icts23-25.163\Desktop\Projects\C#\FileTesto-Lettura\FileTesto-Lettura\obj\Debug\net8.0\ref\FileTesto-Lettura.dll

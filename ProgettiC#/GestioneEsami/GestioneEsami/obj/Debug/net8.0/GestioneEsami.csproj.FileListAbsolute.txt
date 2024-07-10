@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneEsami\GestioneEsami\bin\Debug\net8.0\GestioneEsami.exe
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneEsami\GestioneEsami\bin\Debug\net8.0\GestioneEsami.deps.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneEsami\GestioneEsami\bin\Debug\net8.0\GestioneEsami.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneEsami\GestioneEsami\bin\Debug\net8.0\GestioneEsami.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneEsami\GestioneEsami\bin\Debug\net8.0\GestioneEsami.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneEsami\GestioneEsami\obj\Debug\net8.0\GestioneEsami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneEsami\GestioneEsami\obj\Debug\net8.0\GestioneEsami.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneEsami\GestioneEsami\obj\Debug\net8.0\GestioneEsami.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneEsami\GestioneEsami\obj\Debug\net8.0\GestioneEsami.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneEsami\GestioneEsami\obj\Debug\net8.0\GestioneEsami.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneEsami\GestioneEsami\obj\Debug\net8.0\refint\GestioneEsami.dll
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneEsami\GestioneEsami\obj\Debug\net8.0\GestioneEsami.pdb
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneEsami\GestioneEsami\obj\Debug\net8.0\GestioneEsami.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ProgettiC#\GestioneEsami\GestioneEsami\obj\Debug\net8.0\ref\GestioneEsami.dll
