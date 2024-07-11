@@ -6,6 +6,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\icts23-25.097\Desktop\ITS\Java\Prj12_Popolazione"/>
+			<item value="C:\Users\icts23-25.097\Desktop\ITS\Java"/>
 			<item value="C:\Users\icts23-25.097\eclipse-workspace\Prj13_PokemonPics\src\main\resources\static\client.html"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -52,9 +54,14 @@
 			<item value="com.stanescu"/>
 		</list>
 		<list key="name">
+			<item value="laboratorio"/>
+			<item value="laboratorio_finale"/>
+			<item value="Laboratiorio_finale"/>
+			<item value="Laboratorio_finale"/>
 			<item value="Mappe"/>
 		</list>
 		<list key="artifactId">
+			<item value="laboratorio"/>
 			<item value="mappet-show"/>
 		</list>
 		<list key="projectNameTemplate">

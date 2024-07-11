@@ -5,4 +5,5 @@
     <typeInfo handle="=Prj14_Brawlers/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.stwfy.services{BrawlerService.java[BrawlerService" modifiers="513" timestamp="1719493319076"/>
     <typeInfo handle="=Prj14_Brawlers/C:\/Users\/icts23-25.097\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.3.1\/spring-data-jpa-3.3.1.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/3.3.1=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1719492152693"/>
     <typeInfo handle="=Prj15_Paesi/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.stwfy.services{CountryService.java[CountryService" modifiers="513" timestamp="1719502695764"/>
+    <typeInfo handle="=laboratorio/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.stanescu.interfacce{Contratto.java[Contratto" modifiers="513" timestamp="1720600291756"/>
 </typeInfoHistroy>
