@@ -1,18 +1,25 @@
 /**
  * @file: script.js
  * @author: Stefan Stanescu
- * Compares two numbers and prints which one is greater.
- * @param {number} num1 - The first number to compare.
- * @param {number} num2 - The second number to compare.
+ * Formats a number as a string representing an amount of money in dollars.
+ *
+ * If the number is exactly 1,000,000, it appends a special message ":)".
+ * Otherwise, it just appends "Dollars".
+ *
+ * @param {number} n - The amount of money to format.
+ * @returns {string} The formatted money string.
  */
 
-function greaterNum(num1,num2){
-    if(num1>num2){
-        console.log(num1+" is greater than "+num2)
-    }else{
-        console.log(num2+" is greater than "+num1)
-    }
+function money(n){
+    st=""
+    if (n==1000000)
+        st=n+" Dollars :)";
+    else
+        st=n+" Dollars";
+    return st;
 }
 
-greaterNum(8,4)
-greaterNum(10,22)
+str=money(Math.floor(Math.random() * 1000001));
+str1=money(1000000);
+console.log(str);
+console.log(str1);
