@@ -1,6 +1,7 @@
 package com.stwfy.controllers;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -39,5 +40,12 @@ public class CountryRest {
 		}
 		return service.getCountries();
 	}*/
-	
+	@GetMapping("quiz")
+	public List<Country> getRandomCountries() {
+		List<Country> Paesi = service.findRandomCountries();
+		Country corretto = Paesi.get(0);
+		Collections.shuffle(Paesi);
+		System.out.println(corretto.toString());
+		return Paesi;
+	}
 }

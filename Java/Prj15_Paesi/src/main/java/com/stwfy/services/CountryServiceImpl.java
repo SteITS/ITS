@@ -42,6 +42,11 @@ public class CountryServiceImpl implements CountryService {
 		// TODO Auto-generated method stub
 		return dao.findById(id).get();
 	}
+	
+	@Override
+	public List<Country> findRandomCountries(){
+		return dao.findRandomCountries();
+	}
 
 	@Override
 	public List<String> getNames() {

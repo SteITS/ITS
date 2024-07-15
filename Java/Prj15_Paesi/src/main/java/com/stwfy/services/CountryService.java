@@ -15,5 +15,6 @@ public interface CountryService {
 	List<Country> getCapitals();
 	List<String> getPopulations();
 	List<Country> getCountries();
+	List<Country> findRandomCountries();
 	
 }
