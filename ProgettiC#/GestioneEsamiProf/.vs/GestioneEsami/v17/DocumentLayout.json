@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_Progetti\\GestioneEsami\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|c:\\_progetti\\gestioneesami\\gestioneesami\\mylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|solutionrelative:gestioneesami\\mylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|c:\\_progetti\\gestioneesami\\gestioneesami\\materiebiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|solutionrelative:gestioneesami\\materiebiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|c:\\_progetti\\gestioneesami\\gestioneesami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|solutionrelative:gestioneesami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|c:\\_progetti\\gestioneesami\\gestioneesami\\esamibiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|solutionrelative:gestioneesami\\esamibiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|c:\\_progetti\\gestioneesami\\gestioneesami\\studentibiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|solutionrelative:gestioneesami\\studentibiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|c:\\_progetti\\gestioneesami\\gestioneesami\\esame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|solutionrelative:gestioneesami\\esame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|c:\\_progetti\\gestioneesami\\gestioneesami\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|solutionrelative:gestioneesami\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|c:\\_progetti\\gestioneesami\\gestioneesami\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|solutionrelative:gestioneesami\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|c:\\_progetti\\gestioneesami\\gestioneesami\\file\\esamiits.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7198E8B0-9F96-4448-871F-8537544F219E}|GestioneEsami\\GestioneEsami.csproj|solutionrelative:gestioneesami\\file\\esamiits.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EsamiITS.csv",
+              "DocumentMoniker": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\file\\EsamiITS.csv",
+              "RelativeDocumentMoniker": "GestioneEsami\\file\\EsamiITS.csv",
+              "ToolTip": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\file\\EsamiITS.csv",
+              "RelativeToolTip": "GestioneEsami\\file\\EsamiITS.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-03T16:01:06.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EsamiBiz.cs",
+              "DocumentMoniker": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\EsamiBiz.cs",
+              "RelativeDocumentMoniker": "GestioneEsami\\EsamiBiz.cs",
+              "ToolTip": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\EsamiBiz.cs",
+              "RelativeToolTip": "GestioneEsami\\EsamiBiz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:03:30.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaterieBiz.cs",
+              "DocumentMoniker": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\MaterieBiz.cs",
+              "RelativeDocumentMoniker": "GestioneEsami\\MaterieBiz.cs",
+              "ToolTip": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\MaterieBiz.cs",
+              "RelativeToolTip": "GestioneEsami\\MaterieBiz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:03:17.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentiBiz.cs",
+              "DocumentMoniker": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\StudentiBiz.cs",
+              "RelativeDocumentMoniker": "GestioneEsami\\StudentiBiz.cs",
+              "ToolTip": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\StudentiBiz.cs",
+              "RelativeToolTip": "GestioneEsami\\StudentiBiz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:03:01.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Esame.cs",
+              "DocumentMoniker": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\Esame.cs",
+              "RelativeDocumentMoniker": "GestioneEsami\\Esame.cs",
+              "ToolTip": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\Esame.cs",
+              "RelativeToolTip": "GestioneEsami\\Esame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:53:04.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\Materia.cs",
+              "RelativeDocumentMoniker": "GestioneEsami\\Materia.cs",
+              "ToolTip": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\Materia.cs",
+              "RelativeToolTip": "GestioneEsami\\Materia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:52:52.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\Studente.cs",
+              "RelativeDocumentMoniker": "GestioneEsami\\Studente.cs",
+              "ToolTip": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\Studente.cs",
+              "RelativeToolTip": "GestioneEsami\\Studente.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAlwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:52:40.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyLibrary.cs",
+              "DocumentMoniker": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\MyLibrary.cs",
+              "RelativeDocumentMoniker": "GestioneEsami\\MyLibrary.cs",
+              "ToolTip": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\MyLibrary.cs",
+              "RelativeToolTip": "GestioneEsami\\MyLibrary.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAuwFMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:52:26.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\Program.cs",
+              "RelativeDocumentMoniker": "GestioneEsami\\Program.cs",
+              "ToolTip": "C:\\_Progetti\\GestioneEsami\\GestioneEsami\\Program.cs",
+              "RelativeToolTip": "GestioneEsami\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:48:34.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

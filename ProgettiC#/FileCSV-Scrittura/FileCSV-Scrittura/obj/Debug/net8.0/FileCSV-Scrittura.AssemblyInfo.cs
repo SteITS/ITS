@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileCSV-Scrittura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09e9c9d198b59e188a001e0f3975c416e44e4b0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileCSV-Scrittura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileCSV-Scrittura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\venditoribiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\venditoribiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\venditore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\venditore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\sett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\sett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\ordinibiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\ordinibiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\ordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\ordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\responsabilevenditori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\responsabilevenditori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\meccanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\meccanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\capoofficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\capoofficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\tip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\tip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VenditoriBiz.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\VenditoriBiz.cs",
+              "RelativeDocumentMoniker": "Stanescu_Esercitazione\\VenditoriBiz.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\VenditoriBiz.cs",
+              "RelativeToolTip": "Stanescu_Esercitazione\\VenditoriBiz.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:38:22.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Venditore.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Venditore.cs",
+              "RelativeDocumentMoniker": "Stanescu_Esercitazione\\Venditore.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Venditore.cs",
+              "RelativeToolTip": "Stanescu_Esercitazione\\Venditore.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:53:08.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Persona.cs",
+              "RelativeDocumentMoniker": "Stanescu_Esercitazione\\Persona.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Persona.cs",
+              "RelativeToolTip": "Stanescu_Esercitazione\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:49:37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sett.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\sett.cs",
+              "RelativeDocumentMoniker": "Stanescu_Esercitazione\\sett.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\sett.cs",
+              "RelativeToolTip": "Stanescu_Esercitazione\\sett.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:54:59.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Program.cs",
+              "RelativeDocumentMoniker": "Stanescu_Esercitazione\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Program.cs",
+              "RelativeToolTip": "Stanescu_Esercitazione\\Program.cs",
+              "ViewState": "AQIAAAkAAACAEAAAAAD6vxsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:49:19.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponsabileVenditori.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\ResponsabileVenditori.cs",
+              "RelativeDocumentMoniker": "Stanescu_Esercitazione\\ResponsabileVenditori.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\ResponsabileVenditori.cs",
+              "RelativeToolTip": "Stanescu_Esercitazione\\ResponsabileVenditori.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:05:32.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ordine.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Ordine.cs",
+              "RelativeDocumentMoniker": "Stanescu_Esercitazione\\Ordine.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Ordine.cs",
+              "RelativeToolTip": "Stanescu_Esercitazione\\Ordine.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAqwF8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:20:04.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdiniBiz.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\OrdiniBiz.cs",
+              "RelativeDocumentMoniker": "Stanescu_Esercitazione\\OrdiniBiz.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\OrdiniBiz.cs",
+              "RelativeToolTip": "Stanescu_Esercitazione\\OrdiniBiz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:13:27.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Meccanico.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Meccanico.cs",
+              "RelativeDocumentMoniker": "Stanescu_Esercitazione\\Meccanico.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Meccanico.cs",
+              "RelativeToolTip": "Stanescu_Esercitazione\\Meccanico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:59:24.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Prodotto.cs",
+              "RelativeDocumentMoniker": "Stanescu_Esercitazione\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Prodotto.cs",
+              "RelativeToolTip": "Stanescu_Esercitazione\\Prodotto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:07:20.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CapoOfficina.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\CapoOfficina.cs",
+              "RelativeDocumentMoniker": "Stanescu_Esercitazione\\CapoOfficina.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\CapoOfficina.cs",
+              "RelativeToolTip": "Stanescu_Esercitazione\\CapoOfficina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:22:13.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "tip.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\tip.cs",
+              "RelativeDocumentMoniker": "Stanescu_Esercitazione\\tip.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\tip.cs",
+              "RelativeToolTip": "Stanescu_Esercitazione\\tip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:00:46.681Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

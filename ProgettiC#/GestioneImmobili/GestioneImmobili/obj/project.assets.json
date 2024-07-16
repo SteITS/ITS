@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\GestioneImmobili.csproj",
+      "projectUniqueName": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\GestioneImmobili.csproj",
       "projectName": "GestioneImmobili",
-      "projectPath": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\GestioneImmobili.csproj",
+      "projectPath": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\GestioneImmobili.csproj",
       "packagesPath": "C:\\Users\\icts23-25.097\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\obj\\",
+      "outputPath": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

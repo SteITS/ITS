@@ -1,0 +1,14 @@
+C:\_Progetti\GestioneEsami\GestioneEsami\obj\Debug\net8.0\GestioneEsami.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Progetti\GestioneEsami\GestioneEsami\obj\Debug\net8.0\GestioneEsami.AssemblyInfoInputs.cache
+C:\_Progetti\GestioneEsami\GestioneEsami\obj\Debug\net8.0\GestioneEsami.AssemblyInfo.cs
+C:\_Progetti\GestioneEsami\GestioneEsami\obj\Debug\net8.0\GestioneEsami.csproj.CoreCompileInputs.cache
+C:\_Progetti\GestioneEsami\GestioneEsami\bin\Debug\net8.0\GestioneEsami.exe
+C:\_Progetti\GestioneEsami\GestioneEsami\bin\Debug\net8.0\GestioneEsami.deps.json
+C:\_Progetti\GestioneEsami\GestioneEsami\bin\Debug\net8.0\GestioneEsami.runtimeconfig.json
+C:\_Progetti\GestioneEsami\GestioneEsami\bin\Debug\net8.0\GestioneEsami.dll
+C:\_Progetti\GestioneEsami\GestioneEsami\bin\Debug\net8.0\GestioneEsami.pdb
+C:\_Progetti\GestioneEsami\GestioneEsami\obj\Debug\net8.0\GestioneEsami.dll
+C:\_Progetti\GestioneEsami\GestioneEsami\obj\Debug\net8.0\refint\GestioneEsami.dll
+C:\_Progetti\GestioneEsami\GestioneEsami\obj\Debug\net8.0\GestioneEsami.pdb
+C:\_Progetti\GestioneEsami\GestioneEsami\obj\Debug\net8.0\GestioneEsami.genruntimeconfig.cache
+C:\_Progetti\GestioneEsami\GestioneEsami\obj\Debug\net8.0\ref\GestioneEsami.dll

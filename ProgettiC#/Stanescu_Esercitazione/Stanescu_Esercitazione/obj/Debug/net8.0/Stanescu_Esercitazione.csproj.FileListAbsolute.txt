@@ -1,0 +1,15 @@
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\Stanescu_Esercitazione\Stanescu_Esercitazione\bin\Debug\net8.0\Stanescu_Esercitazione.exe
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\Stanescu_Esercitazione\Stanescu_Esercitazione\bin\Debug\net8.0\Stanescu_Esercitazione.deps.json
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\Stanescu_Esercitazione\Stanescu_Esercitazione\bin\Debug\net8.0\Stanescu_Esercitazione.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\Stanescu_Esercitazione\Stanescu_Esercitazione\bin\Debug\net8.0\Stanescu_Esercitazione.dll
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\Stanescu_Esercitazione\Stanescu_Esercitazione\bin\Debug\net8.0\Stanescu_Esercitazione.pdb
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\Stanescu_Esercitazione\Stanescu_Esercitazione\obj\Debug\net8.0\Stanescu_Esercitazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\Stanescu_Esercitazione\Stanescu_Esercitazione\obj\Debug\net8.0\Stanescu_Esercitazione.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\Stanescu_Esercitazione\Stanescu_Esercitazione\obj\Debug\net8.0\Stanescu_Esercitazione.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\Stanescu_Esercitazione\Stanescu_Esercitazione\obj\Debug\net8.0\Stanescu_Esercitazione.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\Stanescu_Esercitazione\Stanescu_Esercitazione\obj\Debug\net8.0\Stanescu_Esercitazione.sourcelink.json
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\Stanescu_Esercitazione\Stanescu_Esercitazione\obj\Debug\net8.0\Stanescu_Esercitazione.dll
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\Stanescu_Esercitazione\Stanescu_Esercitazione\obj\Debug\net8.0\refint\Stanescu_Esercitazione.dll
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\Stanescu_Esercitazione\Stanescu_Esercitazione\obj\Debug\net8.0\Stanescu_Esercitazione.pdb
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\Stanescu_Esercitazione\Stanescu_Esercitazione\obj\Debug\net8.0\Stanescu_Esercitazione.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\Stanescu_Esercitazione\Stanescu_Esercitazione\obj\Debug\net8.0\ref\Stanescu_Esercitazione.dll

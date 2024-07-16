@@ -1,12 +1,122 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\icts23-25.097\\Desktop\\ProgettiC#\\GestioneImmobili\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\GestioneImmobili\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B69F6C-CAE2-471C-961B-4F393E617575}|GestioneImmobili\\GestioneImmobili.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\gestioneimmobili\\gestioneimmobili\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B69F6C-CAE2-471C-961B-4F393E617575}|GestioneImmobili\\GestioneImmobili.csproj|solutionrelative:gestioneimmobili\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B69F6C-CAE2-471C-961B-4F393E617575}|GestioneImmobili\\GestioneImmobili.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\gestioneimmobili\\gestioneimmobili\\appartemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B69F6C-CAE2-471C-961B-4F393E617575}|GestioneImmobili\\GestioneImmobili.csproj|solutionrelative:gestioneimmobili\\appartemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B69F6C-CAE2-471C-961B-4F393E617575}|GestioneImmobili\\GestioneImmobili.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\gestioneimmobili\\gestioneimmobili\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B69F6C-CAE2-471C-961B-4F393E617575}|GestioneImmobili\\GestioneImmobili.csproj|solutionrelative:gestioneimmobili\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B69F6C-CAE2-471C-961B-4F393E617575}|GestioneImmobili\\GestioneImmobili.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\gestioneimmobili\\gestioneimmobili\\immobilebiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B69F6C-CAE2-471C-961B-4F393E617575}|GestioneImmobili\\GestioneImmobili.csproj|solutionrelative:gestioneimmobili\\immobilebiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B69F6C-CAE2-471C-961B-4F393E617575}|GestioneImmobili\\GestioneImmobili.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\gestioneimmobili\\gestioneimmobili\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B69F6C-CAE2-471C-961B-4F393E617575}|GestioneImmobili\\GestioneImmobili.csproj|solutionrelative:gestioneimmobili\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B69F6C-CAE2-471C-961B-4F393E617575}|GestioneImmobili\\GestioneImmobili.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\gestioneimmobili\\gestioneimmobili\\immobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B69F6C-CAE2-471C-961B-4F393E617575}|GestioneImmobili\\GestioneImmobili.csproj|solutionrelative:gestioneimmobili\\immobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appartemento.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\Appartemento.cs",
+              "RelativeDocumentMoniker": "GestioneImmobili\\Appartemento.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\Appartemento.cs",
+              "RelativeToolTip": "GestioneImmobili\\Appartemento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:00:26.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImmobileBiz.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\ImmobileBiz.cs",
+              "RelativeDocumentMoniker": "GestioneImmobili\\ImmobileBiz.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\ImmobileBiz.cs",
+              "RelativeToolTip": "GestioneImmobili\\ImmobileBiz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:00:25.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Villa.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\Villa.cs",
+              "RelativeDocumentMoniker": "GestioneImmobili\\Villa.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\Villa.cs",
+              "RelativeToolTip": "GestioneImmobili\\Villa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:00:24.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\Box.cs",
+              "RelativeDocumentMoniker": "GestioneImmobili\\Box.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\Box.cs",
+              "RelativeToolTip": "GestioneImmobili\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:00:23.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Immobile.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\Immobile.cs",
+              "RelativeDocumentMoniker": "GestioneImmobili\\Immobile.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\Immobile.cs",
+              "RelativeToolTip": "GestioneImmobili\\Immobile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:00:20.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\Program.cs",
+              "RelativeDocumentMoniker": "GestioneImmobili\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\GestioneImmobili\\GestioneImmobili\\Program.cs",
+              "RelativeToolTip": "GestioneImmobili\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:31:52.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
