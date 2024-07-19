@@ -1,0 +1,14 @@
+C:\Users\icts23-25.097\source\repos\LinqStringhe\LinqStringhe\bin\Debug\net8.0\LinqStringhe.exe
+C:\Users\icts23-25.097\source\repos\LinqStringhe\LinqStringhe\bin\Debug\net8.0\LinqStringhe.deps.json
+C:\Users\icts23-25.097\source\repos\LinqStringhe\LinqStringhe\bin\Debug\net8.0\LinqStringhe.runtimeconfig.json
+C:\Users\icts23-25.097\source\repos\LinqStringhe\LinqStringhe\bin\Debug\net8.0\LinqStringhe.dll
+C:\Users\icts23-25.097\source\repos\LinqStringhe\LinqStringhe\bin\Debug\net8.0\LinqStringhe.pdb
+C:\Users\icts23-25.097\source\repos\LinqStringhe\LinqStringhe\obj\Debug\net8.0\LinqStringhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\source\repos\LinqStringhe\LinqStringhe\obj\Debug\net8.0\LinqStringhe.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\source\repos\LinqStringhe\LinqStringhe\obj\Debug\net8.0\LinqStringhe.AssemblyInfo.cs
+C:\Users\icts23-25.097\source\repos\LinqStringhe\LinqStringhe\obj\Debug\net8.0\LinqStringhe.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\source\repos\LinqStringhe\LinqStringhe\obj\Debug\net8.0\LinqStringhe.dll
+C:\Users\icts23-25.097\source\repos\LinqStringhe\LinqStringhe\obj\Debug\net8.0\refint\LinqStringhe.dll
+C:\Users\icts23-25.097\source\repos\LinqStringhe\LinqStringhe\obj\Debug\net8.0\LinqStringhe.pdb
+C:\Users\icts23-25.097\source\repos\LinqStringhe\LinqStringhe\obj\Debug\net8.0\LinqStringhe.genruntimeconfig.cache
+C:\Users\icts23-25.097\source\repos\LinqStringhe\LinqStringhe\obj\Debug\net8.0\ref\LinqStringhe.dll

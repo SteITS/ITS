@@ -1,0 +1,15 @@
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\GestioneProveITS\GestioneProveITS\bin\Debug\net8.0\GestioneProveITS.exe
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\GestioneProveITS\GestioneProveITS\bin\Debug\net8.0\GestioneProveITS.deps.json
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\GestioneProveITS\GestioneProveITS\bin\Debug\net8.0\GestioneProveITS.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\GestioneProveITS\GestioneProveITS\bin\Debug\net8.0\GestioneProveITS.dll
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\GestioneProveITS\GestioneProveITS\bin\Debug\net8.0\GestioneProveITS.pdb
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\GestioneProveITS\GestioneProveITS\obj\Debug\net8.0\GestioneProveITS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\GestioneProveITS\GestioneProveITS\obj\Debug\net8.0\GestioneProveITS.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\GestioneProveITS\GestioneProveITS\obj\Debug\net8.0\GestioneProveITS.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\GestioneProveITS\GestioneProveITS\obj\Debug\net8.0\GestioneProveITS.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\GestioneProveITS\GestioneProveITS\obj\Debug\net8.0\GestioneProveITS.sourcelink.json
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\GestioneProveITS\GestioneProveITS\obj\Debug\net8.0\GestioneProveITS.dll
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\GestioneProveITS\GestioneProveITS\obj\Debug\net8.0\refint\GestioneProveITS.dll
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\GestioneProveITS\GestioneProveITS\obj\Debug\net8.0\GestioneProveITS.pdb
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\GestioneProveITS\GestioneProveITS\obj\Debug\net8.0\GestioneProveITS.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\GestioneProveITS\GestioneProveITS\obj\Debug\net8.0\ref\GestioneProveITS.dll

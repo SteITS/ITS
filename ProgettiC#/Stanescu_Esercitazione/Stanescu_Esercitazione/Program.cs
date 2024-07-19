@@ -22,6 +22,8 @@
                     
             List<Meccanico> meccanici = new List<Meccanico>();
 
+
+
             string menu = "\n1 - Visualizza l'elenco dei venditori\n" +
                 "2 - Visualizzare l’elenco dei meccanici\n" +
                 "3 - Stampa di un certo ordine, da cercare in base al codice ordine dato in input\n" +

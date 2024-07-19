@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Country Quiz</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-4">Country Quiz</h1>
+        <p class="lead">Qual'è la capitale?</p>
+        <h2 th:text="'Paese: ' + ${correctCountry.name}"></h2>
+        <ul class="list-group">
+            <li th:each="country : ${countries}" class="list-group-item">
+                <!-- Make the country name a button -->
+                <form action="/selectCountry" method="post" style="display: inline;">
+                    <input type="hidden" name="countryId" th:value="${country.id}">
+                    <button type="submit" class="btn btn-outline-primary">
+                        <span th:text="${country.capital}"></span>
+                    </button>
+                </form>
+            </li>
+        </ul>
+    </div>
+    
+    <!-- Bootstrap JS (optional, for components like modals, tooltips, etc.) -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

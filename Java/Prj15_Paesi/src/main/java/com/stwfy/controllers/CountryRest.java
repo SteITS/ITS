@@ -1,6 +1,5 @@
 package com.stwfy.controllers;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
@@ -9,12 +8,13 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.stwfy.entities.Country;
 import com.stwfy.services.CountryService;
-
 @RestController
+@RequestMapping("api")
 public class CountryRest {
 
 	@Autowired
@@ -40,7 +40,7 @@ public class CountryRest {
 		}
 		return service.getCountries();
 	}*/
-	@GetMapping("quiz")
+	@GetMapping("/")
 	public List<Country> getRandomCountries() {
 		List<Country> Paesi = service.findRandomCountries();
 		Country corretto = Paesi.get(0);

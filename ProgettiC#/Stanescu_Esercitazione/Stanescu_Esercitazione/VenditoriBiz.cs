@@ -8,8 +8,13 @@ namespace Stanescu_Esercitazione
 {
     internal class VenditoriBiz
     {
+
         public List<Venditore> ElencoVenditori { get; set; }
 
+        public VenditoriBiz()
+        {
+            ElencoVenditori = new List<Venditore>();
+        }
 
         public void AggiungiVenditore(Venditore venditore) //Questo metodo fa schifo ma non ho piu tempo
         {

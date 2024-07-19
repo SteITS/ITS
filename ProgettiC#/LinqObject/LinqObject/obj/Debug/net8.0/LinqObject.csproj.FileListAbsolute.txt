@@ -1,0 +1,15 @@
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\LinqObject\LinqObject\obj\Debug\net8.0\LinqObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\LinqObject\LinqObject\obj\Debug\net8.0\LinqObject.AssemblyInfoInputs.cache
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\LinqObject\LinqObject\obj\Debug\net8.0\LinqObject.AssemblyInfo.cs
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\LinqObject\LinqObject\obj\Debug\net8.0\LinqObject.csproj.CoreCompileInputs.cache
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\LinqObject\LinqObject\obj\Debug\net8.0\LinqObject.sourcelink.json
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\LinqObject\LinqObject\bin\Debug\net8.0\LinqObject.exe
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\LinqObject\LinqObject\bin\Debug\net8.0\LinqObject.deps.json
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\LinqObject\LinqObject\bin\Debug\net8.0\LinqObject.runtimeconfig.json
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\LinqObject\LinqObject\bin\Debug\net8.0\LinqObject.dll
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\LinqObject\LinqObject\bin\Debug\net8.0\LinqObject.pdb
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\LinqObject\LinqObject\obj\Debug\net8.0\LinqObject.dll
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\LinqObject\LinqObject\obj\Debug\net8.0\refint\LinqObject.dll
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\LinqObject\LinqObject\obj\Debug\net8.0\LinqObject.pdb
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\LinqObject\LinqObject\obj\Debug\net8.0\LinqObject.genruntimeconfig.cache
+C:\Users\icts23-25.097\Desktop\ITS\ProgettiC#\LinqObject\LinqObject\obj\Debug\net8.0\ref\LinqObject.dll

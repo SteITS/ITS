@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Stanescu_Esercitazione")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09e9c9d198b59e188a001e0f3975c416e44e4b0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0dcd0a92631706d1bf86ea5193fb8734bb98383")]
 [assembly: System.Reflection.AssemblyProductAttribute("Stanescu_Esercitazione")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Stanescu_Esercitazione")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

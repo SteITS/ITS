@@ -4007,3 +4007,266 @@
 2024-07-15 12:24:54,277 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-07-15 12:24:54,278 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-07-15 12:24:54,280 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\studenti-fad\src\test\resources
+2024-07-17 09:05:14,373 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-17 09:14:23,610 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:14:23,635 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:14:23,737 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:14:26,992 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 09:14:27,033 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:14:27,041 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:23:39,539 [Worker-31: Launching Prj15_Paesi - Prj14PaesiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:23:39,579 [Worker-31: Launching Prj15_Paesi - Prj14PaesiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:23:39,670 [Worker-31: Launching Prj15_Paesi - Prj14PaesiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:24:31,920 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:24:31,949 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:24:32,048 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:26:22,382 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 09:26:22,422 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:26:22,427 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:27:37,521 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:27:37,582 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:27:37,659 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:29:41,434 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:29:41,478 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:29:41,562 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:30:32,591 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:30:32,613 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:30:32,694 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:30:41,062 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:30:41,083 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:30:41,163 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:30:55,085 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:30:55,140 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:30:55,219 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:31:45,183 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:31:45,206 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:31:45,286 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:31:54,585 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:31:54,607 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:31:54,686 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:32:15,708 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:32:15,776 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:32:15,873 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:32:53,864 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:32:53,891 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:32:53,978 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:35:07,687 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:35:07,708 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:35:07,787 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:35:17,753 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:35:17,780 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:35:17,867 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:35:21,569 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:35:21,592 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:35:21,670 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:36:08,201 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:36:08,226 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:36:08,344 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:37:07,527 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:37:07,550 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:37:07,636 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:38:39,515 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:38:39,557 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:38:39,667 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:40:45,498 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:40:45,521 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:40:45,621 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:41:59,886 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 09:41:59,921 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 09:41:59,926 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:46:39,799 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 09:46:39,832 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:46:39,837 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:49:39,980 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:49:40,005 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:49:40,113 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:50:01,929 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 09:50:01,972 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:50:01,978 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:51:32,323 [Worker-52: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stwfy:paesi:0.0.1-SNAPSHOT @ C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\pom.xml.
+2024-07-17 09:51:32,898 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 09:51:32,931 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 09:51:32,936 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:52:59,695 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:52:59,769 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 09:52:59,774 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:53:56,708 [Worker-57: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stwfy:paesi:0.0.1-SNAPSHOT @ C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\pom.xml.
+2024-07-17 09:53:57,538 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 09:53:57,567 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 09:53:57,573 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:55:20,548 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:55:20,603 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:55:20,697 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:56:23,868 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:56:23,992 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:56:24,067 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:57:32,860 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:57:32,883 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:57:32,957 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 09:58:59,393 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 09:58:59,420 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 09:58:59,517 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:00:48,007 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:00:48,039 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:00:48,046 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:01:33,275 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:01:33,302 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:01:33,307 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:02:20,032 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:02:20,069 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:02:20,076 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:06:21,880 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:06:21,916 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:06:21,923 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:06:40,796 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:06:40,837 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:06:40,925 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:08:27,658 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:08:27,678 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:08:27,751 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:09:09,646 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:09:09,679 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:09:09,684 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:09:44,090 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:09:44,119 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:09:44,124 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:09:56,281 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:09:56,307 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:09:56,389 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:09:59,911 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:09:59,931 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:10:00,004 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:11:18,012 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:11:18,042 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:11:18,047 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:12:43,587 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:12:43,617 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:12:43,621 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:14:49,020 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:14:49,050 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:14:49,055 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:14:57,999 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:14:58,029 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:14:58,034 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:17:05,960 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:17:05,990 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:17:05,996 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:17:25,546 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:17:25,575 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:17:25,581 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:17:51,229 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:17:51,276 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:17:51,281 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:18:43,643 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:18:43,673 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:18:43,678 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:22:11,154 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:22:11,182 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:22:11,258 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:23:10,918 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:23:10,939 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:23:11,103 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:23:26,233 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:23:26,271 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:23:26,348 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:23:29,648 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:23:29,668 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:23:29,739 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:23:40,042 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:23:40,062 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:23:40,178 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:24:19,860 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:24:19,885 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:24:19,974 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:24:44,172 [Worker-80: Launching Prj15_Paesi - Prj14PaesiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:24:44,192 [Worker-80: Launching Prj15_Paesi - Prj14PaesiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:24:44,274 [Worker-80: Launching Prj15_Paesi - Prj14PaesiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:25:21,033 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:25:21,077 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:25:21,199 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:25:34,406 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:25:34,429 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:25:34,548 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:26:58,157 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:26:58,178 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:26:58,253 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:27:28,706 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:27:28,746 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:27:28,830 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:28:02,869 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:28:02,888 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:28:02,961 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:28:18,354 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:28:18,378 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:28:18,454 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:28:24,508 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:28:24,527 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:28:24,598 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:29:28,835 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:29:28,860 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:29:28,947 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:32:35,353 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:32:35,379 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:32:35,468 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:32:52,749 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:32:52,769 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 256 resources from src\main\resources to target\classes
+2024-07-17 10:32:52,848 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:33:27,871 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:33:27,900 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:33:27,904 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:33:31,053 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:33:31,086 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:33:31,133 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:34:09,081 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:34:09,113 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:34:09,118 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:34:45,830 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:34:45,850 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 257 resources from src\main\resources to target\classes
+2024-07-17 10:34:45,932 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:35:54,942 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:35:54,970 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 257 resources from src\main\resources to target\classes
+2024-07-17 10:35:55,060 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:37:00,981 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:37:01,023 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 257 resources from src\main\resources to target\classes
+2024-07-17 10:37:01,098 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:37:24,626 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:37:24,675 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 257 resources from src\main\resources to target\classes
+2024-07-17 10:37:24,771 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:38:18,687 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:38:18,706 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 257 resources from src\main\resources to target\classes
+2024-07-17 10:38:18,803 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:39:06,952 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:39:06,971 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 257 resources from src\main\resources to target\classes
+2024-07-17 10:39:07,045 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:40:34,082 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:40:34,114 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-17 10:40:34,121 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:42:24,472 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:42:24,502 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 257 resources from src\main\resources to target\classes
+2024-07-17 10:42:24,582 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:43:02,930 [Worker-79: Launching Prj15_Paesi - Prj14PaesiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:43:02,959 [Worker-79: Launching Prj15_Paesi - Prj14PaesiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-17 10:43:02,966 [Worker-79: Launching Prj15_Paesi - Prj14PaesiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:44:07,498 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:44:07,505 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 257 resources from src\main\resources to target\classes
+2024-07-17 10:44:07,576 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:44:20,500 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:44:20,515 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 257 resources from src\main\resources to target\classes
+2024-07-17 10:44:20,592 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:44:40,892 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:44:40,898 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 257 resources from src\main\resources to target\classes
+2024-07-17 10:44:40,974 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:46:00,302 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:46:00,331 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:46:00,336 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:46:06,260 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:46:06,289 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-17 10:46:06,294 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:47:13,336 [Worker-75: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stwfy:paesi:0.0.1-SNAPSHOT @ C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\pom.xml.
+2024-07-17 10:47:14,147 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:47:14,177 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:47:14,181 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources
+2024-07-17 10:47:20,703 [Worker-93: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stwfy:paesi:0.0.1-SNAPSHOT @ C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\pom.xml.
+2024-07-17 10:47:21,454 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:47:21,485 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-17 10:47:21,490 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\icts23-25.097\Desktop\ITS\Java\Prj15_Paesi\src\test\resources

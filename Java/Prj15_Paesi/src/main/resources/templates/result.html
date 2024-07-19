@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Result</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-4">Result</h1>
+        <p class="lead" th:text="${result}"></p>
+        <p th:if="${correctCountry}" class="alert alert-info">
+            Correct answer: <span th:text="${correctCountry.capital}"></span>
+        </p>
+        <a href="/quiz" class="btn btn-primary">Try Again</a>
+    </div>
+    
+    <!-- Bootstrap JS (optional, for components like modals, tooltips, etc.) -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

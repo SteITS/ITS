@@ -10,6 +10,11 @@ namespace Stanescu_Esercitazione
     {
         public List<Ordine> ElencoOrdine { get; set; }
 
+        public OrdiniBiz()
+        {
+            ElencoOrdine = new List<Ordine>();
+        }
+
         public void AggiungiOrdine(Ordine ordine, int i)
         {
             ElencoOrdine.Insert(i,ordine);

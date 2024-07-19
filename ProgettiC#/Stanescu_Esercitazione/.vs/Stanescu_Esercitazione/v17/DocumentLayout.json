@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\ordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\ordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\venditoribiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\venditoribiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\venditore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\venditore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\sett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\sett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\ordinibiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,12 +23,16 @@
       "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\sett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\sett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\ordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\ordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\venditore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\venditore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|solutionrelative:stanescu_esercitazione\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{622E414F-F74D-4E33-8B93-831F42563547}|Stanescu_Esercitazione\\Stanescu_Esercitazione.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\stanescu_esercitazione\\stanescu_esercitazione\\responsabilevenditori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,37 +58,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "VenditoriBiz.cs",
               "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\VenditoriBiz.cs",
               "RelativeDocumentMoniker": "Stanescu_Esercitazione\\VenditoriBiz.cs",
               "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\VenditoriBiz.cs",
               "RelativeToolTip": "Stanescu_Esercitazione\\VenditoriBiz.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAoAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T14:38:22.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Venditore.cs",
               "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Venditore.cs",
               "RelativeDocumentMoniker": "Stanescu_Esercitazione\\Venditore.cs",
               "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Venditore.cs",
               "RelativeToolTip": "Stanescu_Esercitazione\\Venditore.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T12:53:08.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T12:53:08.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Persona.cs",
               "RelativeDocumentMoniker": "Stanescu_Esercitazione\\Persona.cs",
@@ -100,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "sett.cs",
               "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\sett.cs",
               "RelativeDocumentMoniker": "Stanescu_Esercitazione\\sett.cs",
@@ -112,13 +111,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Program.cs",
               "RelativeDocumentMoniker": "Stanescu_Esercitazione\\Program.cs",
               "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Program.cs",
               "RelativeToolTip": "Stanescu_Esercitazione\\Program.cs",
-              "ViewState": "AQIAAAkAAACAEAAAAAD6vxsAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T12:49:19.992Z",
               "EditorCaption": ""
@@ -137,25 +136,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Ordine.cs",
               "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Ordine.cs",
               "RelativeDocumentMoniker": "Stanescu_Esercitazione\\Ordine.cs",
               "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Ordine.cs",
               "RelativeToolTip": "Stanescu_Esercitazione\\Ordine.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAqwF8AAAAuAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwF4AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T13:20:04.306Z"
+              "WhenOpened": "2024-07-16T13:20:04.306Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "OrdiniBiz.cs",
               "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\OrdiniBiz.cs",
               "RelativeDocumentMoniker": "Stanescu_Esercitazione\\OrdiniBiz.cs",
               "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\OrdiniBiz.cs",
               "RelativeToolTip": "Stanescu_Esercitazione\\OrdiniBiz.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T14:13:27.407Z"
             },
@@ -173,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Prodotto.cs",
               "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\Stanescu_Esercitazione\\Stanescu_Esercitazione\\Prodotto.cs",
               "RelativeDocumentMoniker": "Stanescu_Esercitazione\\Prodotto.cs",
