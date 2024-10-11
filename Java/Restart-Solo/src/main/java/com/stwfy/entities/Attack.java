@@ -1,14 +1,19 @@
 package com.stwfy.entities;
 
+import java.util.Set;
+
+import com.fasterxml.jackson.annotation.JsonBackReference;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
+import jakarta.persistence.ManyToMany;
 import jakarta.persistence.Table;
 
 @Entity
 @Table(name="attacks")
-public class attacks {
+public class Attack {
 	
-@Id
+	@Id
 	private int id;
 
 	private String attack_name;
@@ -17,9 +22,13 @@ public class attacks {
 	
 	private String damage;
 	
-	private String convertedEnergyCost;
+	private int converted_energy_cost;
 	
 	private String text;
+	
+	@ManyToMany(mappedBy="attacks")
+	@JsonBackReference
+	private Set<Card> cards;
 
 	public int getId() {
 		return id;
@@ -53,12 +62,12 @@ public class attacks {
 		this.damage = damage;
 	}
 
-	public String getConvertedEnergyCost() {
-		return convertedEnergyCost;
+	public int getConvertedEnergyCost() {
+		return converted_energy_cost;
 	}
 
-	public void setConvertedEnergyCost(String convertedEnergyCost) {
-		this.convertedEnergyCost = convertedEnergyCost;
+	public void setConvertedEnergyCost(int convertedEnergyCost) {
+		this.converted_energy_cost = convertedEnergyCost;
 	}
 
 	public String getText() {

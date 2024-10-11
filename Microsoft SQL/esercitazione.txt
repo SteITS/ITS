@@ -1,0 +1,4 @@
+1) Retrieve all columns in the Region table
+SELECT * from Region
+
+")

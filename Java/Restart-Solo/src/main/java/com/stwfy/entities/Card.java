@@ -1,19 +1,27 @@
 package com.stwfy.entities;
 
+import java.util.Set;
+
+import com.fasterxml.jackson.annotation.JsonManagedReference;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.JoinTable;
+import jakarta.persistence.ManyToMany;
+import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 @Entity
 @Table(name = "cards")
-public class Cards {
+public class Card {
 
 	@Id
 	@Column(name = "id")
-	private int id;
-	@Column(name = "set")
+	private String id;
+	@Column(name = "expansion")
 	private String set;
-	@Column(name="")
+	
 	private String series;
 	
 	private String publisher;
@@ -28,41 +36,98 @@ public class Cards {
 	
 	private String set_num;
 	
-	private String supertype;
-	
+	@Column(name = "card_level")
 	private String level;
 	
 	private String hp;
 	
-	private String evolvesFrom;
+	private String evolves_from;
 	
-	private String evolvesTo;
+	private String evolves_to;
 	
-	private String retreatCost;
+	private String retreat_cost;
 	
-	private String convertedRetreatCost;
+	private String converted_retreat_cost;
 	
 	private String rarity;
 	
-	private String flavorText;
+	private String flavor_text;
 	
-	private String nationalPokedexNumbers;
+	private String national_pokedex_numbers;
 	
 	private String legalities;
 	
 	private String rules;
 	
-	private String regulationMark;
+	private String regulation_mark;
 	
-	private String ancientTrait;
+	private String ancient_trait;
 	
 	private String img;
-
-	public int getId() {
+	
+	@ManyToMany
+	@JoinTable(
+			name = "card_attacks",
+			joinColumns = @JoinColumn(name="card_id"),
+			inverseJoinColumns = @JoinColumn(name="attack_id")
+	)
+	@JsonManagedReference
+	private Set<Attack> attacks;
+	
+	@ManyToMany
+	@JoinTable(
+			name = "card_abilities",
+			joinColumns = @JoinColumn(name="card_id"),
+			inverseJoinColumns = @JoinColumn(name="ability_id")
+			)
+	@JsonManagedReference
+	private Set<Ability> abilities;
+	@ManyToMany
+	@JoinTable(
+			name = "card_weaknesses",
+			joinColumns = @JoinColumn(name="card_id"),
+			inverseJoinColumns = @JoinColumn(name="weakness_id")
+			)
+	@JsonManagedReference
+	private Set<Weakness> weaknesses;
+	
+	@ManyToMany
+	@JoinTable(
+			name = "card_resistances",
+			joinColumns = @JoinColumn(name="card_id"),
+			inverseJoinColumns = @JoinColumn(name="resistance_id")
+			)
+	@JsonManagedReference
+	private Set<Resistance> resistances;
+	
+	@ManyToMany
+	@JoinTable(
+			name = "card_types",
+			joinColumns = @JoinColumn(name="card_id"),
+			inverseJoinColumns = @JoinColumn(name="type_id")
+			)
+	@JsonManagedReference
+	private Set<Type> types;
+	
+	@ManyToMany
+	@JoinTable(
+			name = "card_subtypes",
+			joinColumns = @JoinColumn(name="card_id"),
+			inverseJoinColumns = @JoinColumn(name="subtype_id")
+			)
+	@JsonManagedReference
+	private Set<Subtype> subtypes;
+	
+	@ManyToOne
+    @JoinColumn(name = "supertype")
+	@JsonManagedReference
+    private Supertype supertype;
+	
+	public String getId() {
 		return id;
 	}
 
-	public void setId(int id) {
+	public void setId(String id) {
 		this.id = id;
 	}
 
@@ -130,13 +195,6 @@ public class Cards {
 		this.set_num = set_num;
 	}
 
-	public String getSupertype() {
-		return supertype;
-	}
-
-	public void setSupertype(String supertype) {
-		this.supertype = supertype;
-	}
 
 	public String getLevel() {
 		return level;
@@ -155,35 +213,35 @@ public class Cards {
 	}
 
 	public String getEvolvesFrom() {
-		return evolvesFrom;
+		return evolves_from;
 	}
 
 	public void setEvolvesFrom(String evolvesFrom) {
-		this.evolvesFrom = evolvesFrom;
+		this.evolves_from = evolvesFrom;
 	}
 
 	public String getEvolvesTo() {
-		return evolvesTo;
+		return evolves_to;
 	}
 
 	public void setEvolvesTo(String evolvesTo) {
-		this.evolvesTo = evolvesTo;
+		this.evolves_to = evolvesTo;
 	}
 
 	public String getRetreatCost() {
-		return retreatCost;
+		return retreat_cost;
 	}
 
 	public void setRetreatCost(String retreatCost) {
-		this.retreatCost = retreatCost;
+		this.retreat_cost = retreatCost;
 	}
 
 	public String getConvertedRetreatCost() {
-		return convertedRetreatCost;
+		return converted_retreat_cost;
 	}
 
 	public void setConvertedRetreatCost(String convertedRetreatCost) {
-		this.convertedRetreatCost = convertedRetreatCost;
+		this.converted_retreat_cost = convertedRetreatCost;
 	}
 
 	public String getRarity() {
@@ -195,19 +253,19 @@ public class Cards {
 	}
 
 	public String getFlavorText() {
-		return flavorText;
+		return flavor_text;
 	}
 
 	public void setFlavorText(String flavorText) {
-		this.flavorText = flavorText;
+		this.flavor_text = flavorText;
 	}
 
 	public String getNationalPokedexNumbers() {
-		return nationalPokedexNumbers;
+		return national_pokedex_numbers;
 	}
 
 	public void setNationalPokedexNumbers(String nationalPokedexNumbers) {
-		this.nationalPokedexNumbers = nationalPokedexNumbers;
+		this.national_pokedex_numbers = nationalPokedexNumbers;
 	}
 
 	public String getLegalities() {
@@ -227,19 +285,19 @@ public class Cards {
 	}
 
 	public String getRegulationMark() {
-		return regulationMark;
+		return regulation_mark;
 	}
 
 	public void setRegulationMark(String regulationMark) {
-		this.regulationMark = regulationMark;
+		this.regulation_mark = regulationMark;
 	}
 
 	public String getAncientTrait() {
-		return ancientTrait;
+		return ancient_trait;
 	}
 
 	public void setAncientTrait(String ancientTrait) {
-		this.ancientTrait = ancientTrait;
+		this.ancient_trait = ancientTrait;
 	}
 
 	public String getImg() {
