@@ -1,0 +1,141 @@
+﻿@model IEnumerable<ScuoleItaliane.Models.Scuola>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<a asp-action="ZonaLit">Zona Litorale</a>
+<form>
+    Cerca per nome Istituto: <input type="text" name="Nome" value="@ViewBag.Nome" />
+    <p>
+        Ricerca per regione:
+        <select name="Regione">
+            <option value="tutte">tutte</option>
+            @{
+                var lista = (List<string>)ViewBag.Regione;
+                foreach (var regione in lista)
+                {
+                    @if (ViewBag.RegioneSelezionata == regione)
+                    {
+                        <option value="@regione" selected>@regione</option>
+                    }
+                    else
+                    {
+                        <option value="@regione">@regione</option>
+                    }
+                }
+            }
+        </select>
+    </p>
+    <p>
+        Ricerca per comune:
+        <select name="Comune">
+            <option value="tutte">tutte</option>
+            @{
+                var lista1 = (List<string>)ViewBag.Comune;
+                foreach (var comune in lista1)
+                {
+                    @if (ViewBag.ComuneSelezionato == comune)
+                    {
+                        <option value="@comune" selected>@comune</option>
+                    }
+                    else
+                    {
+                        <option value="@comune">@comune</option>
+                    }
+                }
+            }
+        </select>
+    </p>
+            <input type="submit" value="Cerca" />
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Denominazione)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SedeDirettiva)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Indirizzo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cap)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pec)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SitoWeb)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IstitutoOmniComprensivo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCaratteristicaScuolaNavigation.Denominazione)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdComuneNavigation.Denominazione)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdIstitutoRiferimentoNavigation.Denominazione)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdTipologiaScuolaNavigation.Denominazione)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Denominazione)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SedeDirettiva)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Indirizzo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cap)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pec)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SitoWeb)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IstitutoOmniComprensivo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCaratteristicaScuolaNavigation.Denominazione)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdComuneNavigation.Denominazione)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdIstitutoRiferimentoNavigation.Denominazione)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdTipologiaScuolaNavigation.Denominazione)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.CodiceScuola">Details</a> |
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

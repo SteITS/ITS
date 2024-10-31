@@ -3,9 +3,21 @@
 	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<item key="replaceBarOpen" value="false"/>
 	<list key="searchhistory">
-		<item value="types"/>
-		<item value="users"/>
-		<item value="resultse"/>
+		<item value=".card-list"/>
+		<item value="card"/>
+		<item value="card p"/>
+		<item value="bold"/>
+		<item value="data"/>
+		<item value="sortOpt"/>
+		<item value="sortBy"/>
+		<item value="sort by"/>
+		<item value="menu"/>
+		<item value="body"/>
+		<item value="color"/>
+		<item value="li"/>
+		<item value="div"/>
+		<item value="search"/>
+		<item value="updatepag"/>
 	</list>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item key="wrap" value="true"/>

@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ProgettiC#",
+    "\\ProgettiC#\\ASP.NET",
+    "\\ProgettiC#\\ASP.NET\\AnagraficaAPI\\AnagraficaAPI\\Controllers",
+    "\\ProgettiC#\\ASP.NET\\CrudAPI",
+    "\\ProgettiC#\\ASP.NET\\CrudAPI\\CrudAPI",
+    "\\ProgettiC#\\ASP.NET\\CrudAPI\\CrudAPI\\Controllers"
   ],
-  "SelectedNode": "\\VenditaProdotti.sln",
+  "SelectedNode": "\\ProgettiC#\\ASP.NET\\CrudAPI\\CrudAPI\\Controllers\\StudentiController.cs",
   "PreviewInSolutionExplorer": false
 }

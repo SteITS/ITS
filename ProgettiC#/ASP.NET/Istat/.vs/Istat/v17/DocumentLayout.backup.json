@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\istat\\istat\\views\\regioni\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|solutionrelative:istat\\views\\regioni\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\istat\\istat\\controllers\\regionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|solutionrelative:istat\\controllers\\regionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\istat\\istat\\models\\regioneviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|solutionrelative:istat\\models\\regioneviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\istat\\istat\\models\\regione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|solutionrelative:istat\\models\\regione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\istat\\istat\\models\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|solutionrelative:istat\\models\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\istat\\istat\\views\\province\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|solutionrelative:istat\\views\\province\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\istat\\istat\\controllers\\provincecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|solutionrelative:istat\\controllers\\provincecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\istat\\istat\\controllers\\comunicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|solutionrelative:istat\\controllers\\comunicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\istat\\istat\\views\\regioni\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|solutionrelative:istat\\views\\regioni\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\istat\\istat\\views\\comuni\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|solutionrelative:istat\\views\\comuni\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\istat\\istat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|solutionrelative:istat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\istat\\istat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|solutionrelative:istat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\istat\\istat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FF14C3D-5AD8-4378-9B3C-7A80ADE1F009}|Istat\\Istat.csproj|solutionrelative:istat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Views\\Regioni\\Index.cshtml",
+              "RelativeDocumentMoniker": "Istat\\Views\\Regioni\\Index.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Views\\Regioni\\Index.cshtml",
+              "RelativeToolTip": "Istat\\Views\\Regioni\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T15:17:01.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegioneViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Models\\RegioneViewModel.cs",
+              "RelativeDocumentMoniker": "Istat\\Models\\RegioneViewModel.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Models\\RegioneViewModel.cs",
+              "RelativeToolTip": "Istat\\Models\\RegioneViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:37:12.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Provincia.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Models\\Provincia.cs",
+              "RelativeDocumentMoniker": "Istat\\Models\\Provincia.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Models\\Provincia.cs",
+              "RelativeToolTip": "Istat\\Models\\Provincia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:24:29.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Regione.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Models\\Regione.cs",
+              "RelativeDocumentMoniker": "Istat\\Models\\Regione.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Models\\Regione.cs",
+              "RelativeToolTip": "Istat\\Models\\Regione.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:44:24.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProvinceController.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Controllers\\ProvinceController.cs",
+              "RelativeDocumentMoniker": "Istat\\Controllers\\ProvinceController.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Controllers\\ProvinceController.cs",
+              "RelativeToolTip": "Istat\\Controllers\\ProvinceController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:29:32.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Views\\Province\\Index.cshtml",
+              "RelativeDocumentMoniker": "Istat\\Views\\Province\\Index.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Views\\Province\\Index.cshtml",
+              "RelativeToolTip": "Istat\\Views\\Province\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwDEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T13:28:00.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComuniController.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Controllers\\ComuniController.cs",
+              "RelativeDocumentMoniker": "Istat\\Controllers\\ComuniController.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Controllers\\ComuniController.cs",
+              "RelativeToolTip": "Istat\\Controllers\\ComuniController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:42:04.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Views\\Regioni\\Details.cshtml",
+              "RelativeDocumentMoniker": "Istat\\Views\\Regioni\\Details.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Views\\Regioni\\Details.cshtml",
+              "RelativeToolTip": "Istat\\Views\\Regioni\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T12:27:34.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Views\\Comuni\\Index.cshtml",
+              "RelativeDocumentMoniker": "Istat\\Views\\Comuni\\Index.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Views\\Comuni\\Index.cshtml",
+              "RelativeToolTip": "Istat\\Views\\Comuni\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T11:45:02.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Istat\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Istat\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T11:34:53.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegioniController.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Controllers\\RegioniController.cs",
+              "RelativeDocumentMoniker": "Istat\\Controllers\\RegioniController.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Controllers\\RegioniController.cs",
+              "RelativeToolTip": "Istat\\Controllers\\RegioniController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvyEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:34:40.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\appsettings.json",
+              "RelativeDocumentMoniker": "Istat\\appsettings.json",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\appsettings.json",
+              "RelativeToolTip": "Istat\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T11:33:13.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Program.cs",
+              "RelativeDocumentMoniker": "Istat\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\Istat\\Istat\\Program.cs",
+              "RelativeToolTip": "Istat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:32:56.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

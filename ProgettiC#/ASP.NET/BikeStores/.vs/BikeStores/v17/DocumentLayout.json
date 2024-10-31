@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B39BD5B5-140A-4721-827C-29A44726A246}|BikeStores\\BikeStores.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\bikestores\\bikestores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39BD5B5-140A-4721-827C-29A44726A246}|BikeStores\\BikeStores.csproj|solutionrelative:bikestores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39BD5B5-140A-4721-827C-29A44726A246}|BikeStores\\BikeStores.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\bikestores\\bikestores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B39BD5B5-140A-4721-827C-29A44726A246}|BikeStores\\BikeStores.csproj|solutionrelative:bikestores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39BD5B5-140A-4721-827C-29A44726A246}|BikeStores\\BikeStores.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\bikestores\\bikestores\\models\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39BD5B5-140A-4721-827C-29A44726A246}|BikeStores\\BikeStores.csproj|solutionrelative:bikestores\\models\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39BD5B5-140A-4721-827C-29A44726A246}|BikeStores\\BikeStores.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\bikestores\\bikestores\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B39BD5B5-140A-4721-827C-29A44726A246}|BikeStores\\BikeStores.csproj|solutionrelative:bikestores\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39BD5B5-140A-4721-827C-29A44726A246}|BikeStores\\BikeStores.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\bikestores\\bikestores\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39BD5B5-140A-4721-827C-29A44726A246}|BikeStores\\BikeStores.csproj|solutionrelative:bikestores\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39BD5B5-140A-4721-827C-29A44726A246}|BikeStores\\BikeStores.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\bikestores\\bikestores\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39BD5B5-140A-4721-827C-29A44726A246}|BikeStores\\BikeStores.csproj|solutionrelative:bikestores\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39BD5B5-140A-4721-827C-29A44726A246}|BikeStores\\BikeStores.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\bikestores\\bikestores\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39BD5B5-140A-4721-827C-29A44726A246}|BikeStores\\BikeStores.csproj|solutionrelative:bikestores\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B39BD5B5-140A-4721-827C-29A44726A246}|BikeStores\\BikeStores.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\bikestores\\bikestores\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39BD5B5-140A-4721-827C-29A44726A246}|BikeStores\\BikeStores.csproj|solutionrelative:bikestores\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\BikeStores\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BikeStores\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\BikeStores\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BikeStores\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAABAMzMzMzMbwBwAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T14:18:28.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\BikeStores\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "BikeStores\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\BikeStores\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "BikeStores\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:18:22.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\BikeStores\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "BikeStores\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\BikeStores\\Models\\Customer.cs",
+              "RelativeToolTip": "BikeStores\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:17:47.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\BikeStores\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BikeStores\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\BikeStores\\Models\\Category.cs",
+              "RelativeToolTip": "BikeStores\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:17:45.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\BikeStores\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "BikeStores\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\BikeStores\\Models\\Brand.cs",
+              "RelativeToolTip": "BikeStores\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:17:43.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\BikeStores\\Program.cs",
+              "RelativeDocumentMoniker": "BikeStores\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\BikeStores\\Program.cs",
+              "RelativeToolTip": "BikeStores\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:11:26.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BikeStoresContext.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\BikeStores\\Models\\BikeStoresContext.cs",
+              "RelativeDocumentMoniker": "BikeStores\\Models\\BikeStoresContext.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\BikeStores\\Models\\BikeStoresContext.cs",
+              "RelativeToolTip": "BikeStores\\Models\\BikeStoresContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAEAlwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:05:54.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\BikeStores\\appsettings.json",
+              "RelativeDocumentMoniker": "BikeStores\\appsettings.json",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\BikeStores\\BikeStores\\appsettings.json",
+              "RelativeToolTip": "BikeStores\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T13:47:05.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

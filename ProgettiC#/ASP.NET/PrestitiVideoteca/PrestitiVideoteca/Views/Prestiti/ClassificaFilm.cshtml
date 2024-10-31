@@ -1,0 +1,24 @@
+﻿@model List<PrestitiVideoteca.Models.ClassificaFilmViewModel>
+
+@{
+    ViewData["Title"] = "ClassificaFilm";
+}
+
+<h2>Top 10 Films</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Titolo</th>
+            <th>Numero di prestiti</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Film.Titolo</td>
+                <td>@item.NumeroPrestiti</td>
+            </tr>
+        }
+    </tbody>
+</table>

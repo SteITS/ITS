@@ -1,0 +1,71 @@
+﻿@model IEnumerable<PrestitiVideoteca.Models.Prestito>
+
+@{
+    ViewData["Title"] = ViewBag.Header;
+}
+
+<h1>@ViewBag.Header</h1>
+
+<p>
+    <a asp-action="Create">Nuovo</a>
+    <a asp-action="ClassificaFilm">TOP10</a>
+    <a asp-action="ArchivioPrestiti">Archivio Prestiti</a>
+    <a asp-action="PrestitiScaduti">Prestiti Scaduti</a>
+</p>
+<form>
+    Titolo: <input type="text" name="titolo" value="@ViewBag.titolo"></input>
+    Cognome: <input type="text" name="cognome" value="@ViewBag.cognome"></input>
+    <input type="submit" value="cerca"/>
+</form>
+
+<p>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DataPrestito)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataScadenza)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataRestituzione)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdFilmNavigation.Titolo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MatricolaNavigation.Nominativo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataPrestito)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataScadenza)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataRestituzione)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdFilmNavigation.Titolo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MatricolaNavigation.Nominativo)
+            </td>
+            <td>
+                <a asp-action="Restituzione" asp-route-id="@item.Id">Restituisci</a> |
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

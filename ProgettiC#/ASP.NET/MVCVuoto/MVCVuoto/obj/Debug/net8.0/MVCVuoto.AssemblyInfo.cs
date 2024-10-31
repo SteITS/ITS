@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCVuoto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7abdb21fb282a0f6c63a36efed076f3504a2bdb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8cbb85d1ad2db8b93266c48d44ffed1406f610c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCVuoto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCVuoto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

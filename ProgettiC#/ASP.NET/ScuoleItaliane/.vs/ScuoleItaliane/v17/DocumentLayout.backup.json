@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\views\\scuole\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\views\\scuole\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\controllers\\scuolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\controllers\\scuolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\controllers\\regionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\controllers\\regionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\views\\scuole\\zonalit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\views\\scuole\\zonalit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\models\\scuoleitalianecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\scuoleitalianecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\models\\scuola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\scuola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\models\\caratteristicascuola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\caratteristicascuola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\models\\comune.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\comune.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\models\\istitutoriferimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\istitutoriferimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\models\\zonamontana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\zonamontana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\models\\zonaaltimetrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\zonaaltimetrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\models\\tipologiascuola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\tipologiascuola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\models\\regione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\regione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\models\\provincium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\provincium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\scuoleitaliane\\scuoleitaliane\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E04D7648-AE7A-4056-8016-4EB11254CAA1}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZonaLit.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Views\\Scuole\\ZonaLit.cshtml",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Views\\Scuole\\ZonaLit.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Views\\Scuole\\ZonaLit.cshtml",
+              "RelativeToolTip": "ScuoleItaliane\\Views\\Scuole\\ZonaLit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:35:33.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Views\\Scuole\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Views\\Scuole\\Index.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Views\\Scuole\\Index.cshtml",
+              "RelativeToolTip": "ScuoleItaliane\\Views\\Scuole\\Index.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T13:46:32.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ScuoleItaliane\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T13:25:05.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScuoleController.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Controllers\\ScuoleController.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Controllers\\ScuoleController.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Controllers\\ScuoleController.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Controllers\\ScuoleController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:23:34.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegioniController.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Controllers\\RegioniController.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Controllers\\RegioniController.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Controllers\\RegioniController.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Controllers\\RegioniController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:20:16.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CaratteristicaScuola.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\CaratteristicaScuola.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\CaratteristicaScuola.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\CaratteristicaScuola.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\CaratteristicaScuola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:18:41.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Comune.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\Comune.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\Comune.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\Comune.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\Comune.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:18:35.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:18:34.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IstitutoRiferimento.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\IstitutoRiferimento.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\IstitutoRiferimento.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\IstitutoRiferimento.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\IstitutoRiferimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:18:26.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ZonaMontana.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\ZonaMontana.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\ZonaMontana.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\ZonaMontana.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\ZonaMontana.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:18:20.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ZonaAltimetrica.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\ZonaAltimetrica.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\ZonaAltimetrica.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\ZonaAltimetrica.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\ZonaAltimetrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:18:14.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TipologiaScuola.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\TipologiaScuola.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\TipologiaScuola.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\TipologiaScuola.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\TipologiaScuola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:18:06.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Scuola.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\Scuola.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\Scuola.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\Scuola.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\Scuola.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:18:00.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Regione.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\Regione.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\Regione.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\Regione.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\Regione.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:17:56.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Provincium.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\Provincium.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\Provincium.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\Provincium.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\Provincium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:17:45.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScuoleItalianeContext.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\ScuoleItalianeContext.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\ScuoleItalianeContext.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Models\\ScuoleItalianeContext.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\ScuoleItalianeContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAnwCUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:12:33.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\appsettings.json",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\appsettings.json",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\appsettings.json",
+              "RelativeToolTip": "ScuoleItaliane\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T13:05:06.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Program.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\ScuoleItaliane\\ScuoleItaliane\\Program.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:05:03.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

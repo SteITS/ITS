@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstrazioneNumeriLotto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8cbb85d1ad2db8b93266c48d44ffed1406f610c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstrazioneNumeriLotto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstrazioneNumeriLotto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

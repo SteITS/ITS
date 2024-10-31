@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestioneMessaggi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09e9c9d198b59e188a001e0f3975c416e44e4b0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8cbb85d1ad2db8b93266c48d44ffed1406f610c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestioneMessaggi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestioneMessaggi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

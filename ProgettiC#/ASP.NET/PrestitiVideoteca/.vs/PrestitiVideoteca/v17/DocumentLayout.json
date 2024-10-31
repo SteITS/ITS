@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\controllers\\prestiticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\controllers\\prestiticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\films\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\films\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\controllers\\studenticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\controllers\\studenticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\prestiti\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\prestiti\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\films\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\films\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\prestiti\\restituzione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\prestiti\\restituzione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\prestiti\\classificafilm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\prestiti\\classificafilm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\prestiti\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\prestiti\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\prestiti\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\prestiti\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\studenti\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\studenti\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\studenti\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\studenti\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\prestiti\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\prestiti\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\films\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\films\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\prestiti\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\prestiti\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\models\\classificafilmviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\models\\classificafilmviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\PrestitiBiblioteca1\\PrestitiBiblioteca\\Models\\PrestitiBibliotecaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\models\\prestitivideotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\models\\prestitivideotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|c:\\users\\icts23-25.097\\source\\repos\\prestitivideoteca\\prestitivideoteca\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D291CE-1940-44DB-92AB-8BAFFA1DB554}|PrestitiVideoteca\\PrestitiVideoteca.csproj|solutionrelative:prestitivideoteca\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Restituzione.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Prestiti\\Restituzione.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\Prestiti\\Restituzione.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Prestiti\\Restituzione.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\Prestiti\\Restituzione.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T13:02:12.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PrestitiVideoteca\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:40:02.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Films\\Create.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\Films\\Create.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Films\\Create.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\Films\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T12:33:24.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Studenti\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\Studenti\\Index.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Studenti\\Index.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\Studenti\\Index.cshtml",
+              "ViewState": "AgIAABMAAACAMjMzMzMLwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T15:26:04.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Prestiti\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\Prestiti\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Prestiti\\Delete.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\Prestiti\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T15:25:44.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Prestiti\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\Prestiti\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Prestiti\\Edit.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\Prestiti\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T14:57:09.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Prestiti\\Details.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\Prestiti\\Details.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Prestiti\\Details.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\Prestiti\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T14:56:30.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Prestiti\\Create.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\Prestiti\\Create.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Prestiti\\Create.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\Prestiti\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T14:52:34.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassificaFilm.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Prestiti\\ClassificaFilm.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\Prestiti\\ClassificaFilm.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Prestiti\\ClassificaFilm.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\Prestiti\\ClassificaFilm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T14:52:08.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Models\\Film.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Models\\Film.cs",
+              "RelativeToolTip": "PrestitiVideoteca\\Models\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:34:52.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClassificaFilmViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Models\\ClassificaFilmViewModel.cs",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Models\\ClassificaFilmViewModel.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Models\\ClassificaFilmViewModel.cs",
+              "RelativeToolTip": "PrestitiVideoteca\\Models\\ClassificaFilmViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:27:10.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Films\\Details.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\Films\\Details.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Films\\Details.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\Films\\Details.cshtml",
+              "ViewState": "AgIAACsAAAAAZWZmZmYawFEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T14:09:04.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Prestiti\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\Prestiti\\Index.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Prestiti\\Index.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\Prestiti\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T13:21:45.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Studenti\\Details.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\Studenti\\Details.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Studenti\\Details.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\Studenti\\Details.cshtml",
+              "ViewState": "AgIAACYAAAAAMjMzMzMbwAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T12:33:50.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Models\\Studente.cs",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Models\\Studente.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Models\\Studente.cs",
+              "RelativeToolTip": "PrestitiVideoteca\\Models\\Studente.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:48:30.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PrestitiBibliotecaContext.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\PrestitiBiblioteca1\\PrestitiBiblioteca\\Models\\PrestitiBibliotecaContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\PrestitiBiblioteca1\\PrestitiBiblioteca\\Models\\PrestitiBibliotecaContext.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\PrestitiBiblioteca1\\PrestitiBiblioteca\\Models\\PrestitiBibliotecaContext.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\PrestitiBiblioteca1\\PrestitiBiblioteca\\Models\\PrestitiBibliotecaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:02:33.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PrestitiVideotecaContext.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Models\\PrestitiVideotecaContext.cs",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Models\\PrestitiVideotecaContext.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Models\\PrestitiVideotecaContext.cs",
+              "RelativeToolTip": "PrestitiVideoteca\\Models\\PrestitiVideotecaContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:47:53.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Films\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\Films\\Index.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Films\\Index.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\Films\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T14:55:12.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrestitiController.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Controllers\\PrestitiController.cs",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Controllers\\PrestitiController.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Controllers\\PrestitiController.cs",
+              "RelativeToolTip": "PrestitiVideoteca\\Controllers\\PrestitiController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:53:19.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentiController.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Controllers\\StudentiController.cs",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Controllers\\StudentiController.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Controllers\\StudentiController.cs",
+              "RelativeToolTip": "PrestitiVideoteca\\Controllers\\StudentiController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIAWwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:52:22.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmsController.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Controllers\\FilmsController.cs",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Controllers\\FilmsController.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Controllers\\FilmsController.cs",
+              "RelativeToolTip": "PrestitiVideoteca\\Controllers\\FilmsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:50:37.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Prestito.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Models\\Prestito.cs",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Models\\Prestito.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Models\\Prestito.cs",
+              "RelativeToolTip": "PrestitiVideoteca\\Models\\Prestito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:48:40.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T14:48:36.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T14:48:14.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T14:48:09.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T14:48:11.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Program.cs",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Program.cs",
+              "RelativeToolTip": "PrestitiVideoteca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAA//////8AwBYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:48:02.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PrestitiVideoteca\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T14:47:59.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\appsettings.json",
+              "RelativeDocumentMoniker": "PrestitiVideoteca\\appsettings.json",
+              "ToolTip": "C:\\Users\\icts23-25.097\\source\\repos\\PrestitiVideoteca\\PrestitiVideoteca\\appsettings.json",
+              "RelativeToolTip": "PrestitiVideoteca\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T14:45:35.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
