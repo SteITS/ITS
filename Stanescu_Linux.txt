@@ -1,0 +1,24 @@
+3) ip a   192.168.10.109/24
+4) ip a   192.168.10.109/24 -> Classe C
+5) nano /etc/hostname  ct-its-9
+6) apt update
+   apt install apache2
+7) apt install mariadb-server
+8) mysql -u root -> Server version: 10.11.6-MariaDB-0+deb12u1 Debian 12
+9)root@ct-its-9:~# root@ct-its-9:~# cd /var/www/html/
+  root@ct-its-9:/var/www/html# nano index.html
+  root@ct-its-9:/var/www/html# systemctl restart apache2
+  http://93.43.248.129:9029/
+
+10)mysql -u root
+   create database Stanescu;
+
+11)root@ct-its-9:/# apt install php libapache2-mod-php
+   a2enmod php8.2
+   nano /var/www/html/info.php
+   systemctl restart apache2.service
+   http://93.43.248.129:9029/info.php
+
+13) Database: Stanescu
+    user: utente
+    password: password
