@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GamCollezioni")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8cbb85d1ad2db8b93266c48d44ffed1406f610c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa2c9bf4428d409c43e97a9390b89081faf21353")]
 [assembly: System.Reflection.AssemblyProductAttribute("GamCollezioni")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GamCollezioni")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

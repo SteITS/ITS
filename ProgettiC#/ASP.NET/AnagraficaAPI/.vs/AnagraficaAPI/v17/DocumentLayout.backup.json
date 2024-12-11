@@ -59,8 +59,7 @@
               "RelativeToolTip": "AnagraficaAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:50:16.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T14:50:16.684Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "AnagraficaAPI\\Models\\Studente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:46:46.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T14:46:46.346Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "AnagraficaAPI\\Models\\AnagraficaContext.cs",
               "ViewState": "AgIAAAcAAACAMjMzM/MpwBoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:46:31.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T14:46:31.202Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "AnagraficaAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-28T14:39:23.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T14:39:23.519Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "AnagraficaAPI\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:38:21.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T14:38:21.368Z"
             }
           ]
         }

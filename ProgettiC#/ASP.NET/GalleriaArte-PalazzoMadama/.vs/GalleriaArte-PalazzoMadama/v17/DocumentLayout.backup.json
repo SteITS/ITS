@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\GalleriaArte-PalazzoMadama\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D316DEE7-FD2D-49CE-A515-0394260DF0FE}|GalleriaArte-PalazzoMadama\\GalleriaArte-PalazzoMadama.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\galleriaarte-palazzomadama\\galleriaarte-palazzomadama\\views\\opere\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D316DEE7-FD2D-49CE-A515-0394260DF0FE}|GalleriaArte-PalazzoMadama\\GalleriaArte-PalazzoMadama.csproj|solutionrelative:galleriaarte-palazzomadama\\views\\opere\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D316DEE7-FD2D-49CE-A515-0394260DF0FE}|GalleriaArte-PalazzoMadama\\GalleriaArte-PalazzoMadama.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\galleriaarte-palazzomadama\\galleriaarte-palazzomadama\\controllers\\operecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D316DEE7-FD2D-49CE-A515-0394260DF0FE}|GalleriaArte-PalazzoMadama\\GalleriaArte-PalazzoMadama.csproj|solutionrelative:galleriaarte-palazzomadama\\controllers\\operecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D316DEE7-FD2D-49CE-A515-0394260DF0FE}|GalleriaArte-PalazzoMadama\\GalleriaArte-PalazzoMadama.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\galleriaarte-palazzomadama\\galleriaarte-palazzomadama\\views\\opere\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D316DEE7-FD2D-49CE-A515-0394260DF0FE}|GalleriaArte-PalazzoMadama\\GalleriaArte-PalazzoMadama.csproj|solutionrelative:galleriaarte-palazzomadama\\views\\opere\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D316DEE7-FD2D-49CE-A515-0394260DF0FE}|GalleriaArte-PalazzoMadama\\GalleriaArte-PalazzoMadama.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\asp.net\\galleriaarte-palazzomadama\\galleriaarte-palazzomadama\\controllers\\autoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,20 +58,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\GalleriaArte-PalazzoMadama\\GalleriaArte-PalazzoMadama\\Views\\Opere\\Index.cshtml",
               "RelativeDocumentMoniker": "GalleriaArte-PalazzoMadama\\Views\\Opere\\Index.cshtml",
               "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\GalleriaArte-PalazzoMadama\\GalleriaArte-PalazzoMadama\\Views\\Opere\\Index.cshtml",
               "RelativeToolTip": "GalleriaArte-PalazzoMadama\\Views\\Opere\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T13:58:01.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T13:58:01.671Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "GalleriaArte-PalazzoMadama\\Controllers\\AutoriController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T13:40:52.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T13:40:52.363Z"
             },
             {
               "$type": "Document",
@@ -100,13 +98,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "OpereController.cs",
               "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\GalleriaArte-PalazzoMadama\\GalleriaArte-PalazzoMadama\\Controllers\\OpereController.cs",
               "RelativeDocumentMoniker": "GalleriaArte-PalazzoMadama\\Controllers\\OpereController.cs",
               "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\GalleriaArte-PalazzoMadama\\GalleriaArte-PalazzoMadama\\Controllers\\OpereController.cs",
               "RelativeToolTip": "GalleriaArte-PalazzoMadama\\Controllers\\OpereController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T13:25:48.959Z",
               "EditorCaption": ""

@@ -1,0 +1,71 @@
+﻿@model IEnumerable<BikeStores.Data.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<form>
+    <p>
+        Ricerca per marca:
+        <select name="marca">
+            <option value="">Tutti</option>
+            @{
+                var lista = (List<string>)ViewBag.marca;
+                foreach (var marca in lista)
+                {
+                    @if (ViewBag.marcaSelezionata == marca)
+                    {
+                        <option value="@marca" selected>@marca</option>
+                    }
+                    else
+                    {
+                        <option value="@marca">@marca</option>
+                    }
+                }
+            }
+            <input type="submit" value="Cerca" />
+        </select>
+    </p>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ListPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Brand)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ListPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Brand.BrandName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.CategoryName)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.ProductId">Details</a> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

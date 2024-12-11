@@ -70,8 +70,7 @@
               "RelativeToolTip": "GamCollezioni\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T13:39:44.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T13:39:44.864Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "GamCollezioni\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T13:39:23.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T13:39:23.674Z"
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "GamCollezioni\\Views\\Opere\\Autori.cshtml",
               "ViewState": "AgIAAAYAAADAmZmZmZkewBIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T13:14:43.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T13:14:43.425Z"
             },
             {
               "$type": "Document",
@@ -109,8 +106,7 @@
               "RelativeToolTip": "GamCollezioni\\Views\\Opere\\Details.cshtml",
               "ViewState": "AgIAABkAAAAgZmZmZmYkwC4AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T09:31:45.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T09:31:45.932Z"
             },
             {
               "$type": "Document",
@@ -122,8 +118,7 @@
               "RelativeToolTip": "GamCollezioni\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T08:42:42.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T08:42:42.834Z"
             },
             {
               "$type": "Document",
@@ -135,8 +130,7 @@
               "RelativeToolTip": "GamCollezioni\\Views\\Opere\\Index.cshtml",
               "ViewState": "AgIAABkAAAAAmZmZmRkmwBMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T08:42:36.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T08:42:36.932Z"
             },
             {
               "$type": "Document",
@@ -146,7 +140,7 @@
               "RelativeDocumentMoniker": "GamCollezioni\\Controllers\\OpereController.cs",
               "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\ASP.NET\\GamCollezioni\\GamCollezioni\\Controllers\\OpereController.cs",
               "RelativeToolTip": "GamCollezioni\\Controllers\\OpereController.cs",
-              "ViewState": "AgIAADAAAAAA/v////8FwDwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAABAMzMzMzMXwEsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T08:41:09.822Z",
               "EditorCaption": ""
@@ -161,8 +155,7 @@
               "RelativeToolTip": "GamCollezioni\\Models\\GamCollezioniContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T08:39:49.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T08:39:49.383Z"
             },
             {
               "$type": "Document",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "GamCollezioni\\Program.cs",
               "ViewState": "AgIAAAcAAABAmZmZmZkewCIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T08:12:30.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T08:12:30.606Z"
             },
             {
               "$type": "Document",
@@ -187,8 +179,7 @@
               "RelativeToolTip": "GamCollezioni\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-06T08:09:30.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T08:09:30.734Z"
             },
             {
               "$type": "Document",
@@ -200,8 +191,7 @@
               "RelativeToolTip": "GamCollezioni\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T08:09:09.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T08:09:09.75Z"
             },
             {
               "$type": "Document",
@@ -213,8 +203,7 @@
               "RelativeToolTip": "GamCollezioni\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T08:06:37.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T08:06:37.328Z"
             }
           ]
         }

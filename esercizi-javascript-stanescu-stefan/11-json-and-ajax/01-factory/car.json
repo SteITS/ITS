@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "make": "Fiat",
+    "model": "Punto",
+    "year": 2001,
+    "isElectric": false,
+    "features": ["Bluetooth", "Wheel", "Need something else?"],
+    "owner": {
+      "name": "Stwfy",
+      "address": "Street of the guy 312"
+    },
+    "previousOwner": null
+  }

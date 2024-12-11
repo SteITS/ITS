@@ -1,0 +1,14 @@
+{
+    "id": 101,
+    "name": "Shit Car Factory",
+    "location": "Mirafiori Torino, TO",
+    "capacity": 5000,
+    "isOperational": true,
+    "employees": ["Alice", "Bob", "Charlie"],
+    "contactInfo": {
+      "phone": "123-456-7890",
+      "email": "info@fiat.com"
+    },
+    "specializations": ["Hatchbacks", "SUVs", "Electric Vehicles"],
+    "notes": null
+  }

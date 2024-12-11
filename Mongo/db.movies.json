@@ -1,0 +1,40 @@
+db.movies.aggregate([
+    {
+        $unwind: "$genres"
+    },
+    {
+        $match: { genres: "Action" }
+    },
+    {
+        $lookup: {
+            from: "comments",
+            localField: "_id",
+            foreignField: "movie_id",
+            as: "movie_comments"
+        }
+    },
+    {
+        $addFields: {
+            commentCount: {
+                $size: "$movie_comments"
+            }
+        }
+    },
+    {
+        $match: { commentCount: { $gt: 0 } }
+    },
+    {
+        $project: {
+            title: 1,
+            commenters: "$movie_comments.name",
+            _id: 0
+        }
+    }
+]);
+
+
+db.movies.aggregate([
+    
+
+
+])
