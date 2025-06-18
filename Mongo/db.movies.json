@@ -1,9 +1,46 @@
+
+/*1) mostare registi con i film e i relativi commenti
+Output:
+- nome regista (director)
+- titolo film (title)
+- commenti (text)
+*/
+
+db.movies.aggregate([
+    {
+        $lookup: {
+            from: "comments",
+            localField:"_id",
+            foreignField: "movie_id",
+            as: "movie_comments"
+        }
+    },
+    {
+        $unwind:"$movie_comments"
+    },
+    {
+        $project:{
+            _id : 0,
+            title : 1,
+            directors : 1,
+            movie_comments: "$movie_comments.text"
+        }
+    }
+
+
+])
+
+/*2) trovare i generi con il maggior numero di commenti
+contare i commenti per genere
+Output:
+- genere
+- numero commenti
+ordinato in ordine decrescente per numero commenti
+*/
+
 db.movies.aggregate([
     {
         $unwind: "$genres"
-    },
-    {
-        $match: { genres: "Action" }
     },
     {
         $lookup: {
@@ -21,20 +58,61 @@ db.movies.aggregate([
         }
     },
     {
-        $match: { commentCount: { $gt: 0 } }
+        $project: {
+            _id: 0,
+            genres: 1,
+            commentCount: 1
+        }
     },
     {
-        $project: {
-            title: 1,
-            commenters: "$movie_comments.name",
-            _id: 0
-        }
+        $sort: { commentCount: -1 }
+    },
+    {
+        $limit: 50 
     }
 ]);
 
 
+//3) trovare i 5 attori più frequenti nei film (movies)
+
 db.movies.aggregate([
-    
+    {
+        $unwind: "$cast"
+    },
 
+    {
+        $group: {
+            _id: "$cast", 
+            movieCount: { $sum: 1 } 
+        }
+    },
+    {
+        $project:{
+            _id: 0
+            cast : 1
+        }
+    },
+    {
+        $sort: { movieCount: -1 }
+    },
+    {
+        $limit: 5
+    }
 
+])
+
+//4) calcolare la durata media dei film per genere
+
+db.movies.aggregate([
+    {
+        $group:{
+            _id: "runtime",
+            avgRuntime:{ $avg : "$runtime"}
+        }
+    },
+    {
+        $project: {
+            avgRuntime : 1
+        }
+    }
 ])

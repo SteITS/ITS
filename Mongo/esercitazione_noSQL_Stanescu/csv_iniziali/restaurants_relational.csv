@@ -1,0 +1,4 @@
+_id,name,address_street,address_city,address_zip,cuisine
+r1,La Bella Italia,Via Roma 10,Milano,20100,Italian
+r2,Sushi World,Akihabara 3,Tokyo,10100,Japanese
+r3,Taco Fiesta,Calle Sol 5,Madrid,28001,Mexican

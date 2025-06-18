@@ -1,0 +1,10 @@
+_id,restaurant_id,name,description,price,vegetarian
+d1,r1,Pizza Margherita,"Classic pizza with tomato, mozzarella, and basil",8.5,True
+d2,r1,Lasagna,Homemade lasagna with meat sauce,12.0,False
+d3,r1,Tiramisu,Traditional Italian dessert,5.0,True
+d4,r2,Sushi Platter,Assorted sushi pieces,20.0,False
+d5,r2,Veggie Roll,Sushi roll with avocado and cucumber,10.0,True
+d6,r2,Miso Soup,Traditional Japanese soup,3.5,True
+d7,r3,Chicken Taco,Taco with grilled chicken,7.0,False
+d8,r3,Veggie Burrito,"Burrito with beans, rice, and veggies",9.0,True
+d9,r3,Churros,Fried dough with sugar,4.0,True

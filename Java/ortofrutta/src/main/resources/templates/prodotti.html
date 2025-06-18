@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+>
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1></h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Categoria</th>
+                    <th>Origine</th>
+                    <th>Prezzo</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr th:each="p : ${prodotti}">
+                    <td th:text="${p.nome}"></td>
+                    <td th:text="${p.categoria}"></td>
+                    <td th:text="${p.origine}"></td>
+                    <td th:text="${p.prezzoKg}"></td>
+                </tr>
+        </table>
+    </div>
+    <script>
+        const URL ="/api/prodotti";
+        fetch(URL)
+        .then(response => response.json())
+        .then(prodotti => {
+            for (const prodotto of prodotti) {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${prodotto.nome}</td>
+                    <td>${prodotto.categoria}</td>
+                    <td>${prodotto.origine}</td>
+                    <td>${prodotto.prezzoKg}</td>
+                `;
+                document.querySelector('tbody').appendChild(row);
+            }
+        })
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,7 @@
+id_ordine,id_utente,data_ordine,stato,importo_totale
+1,1,2025-01-09 08:30:00,in elaborazione,25.50
+2,1,2025-01-09 09:00:00,in elaborazione,22.00
+3,2,2025-01-10 14:20:00,in elaborazione,13.60
+4,3,2025-01-11 10:00:00,in elaborazione,12.00
+5,3,2025-01-11 10:05:00,in elaborazione,17.80
+6,4,2025-01-12 16:50:00,in elaborazione,16.50

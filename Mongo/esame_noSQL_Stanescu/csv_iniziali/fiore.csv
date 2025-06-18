@@ -1,0 +1,6 @@
+id_fiore,nome,descrizione,prezzo,quantita_disponibile,data_inserimento
+1,Rosa Rossa,"Rosa a gambo lungo di colore rosso intenso.",3.50,100,2025-01-03 15:00:00
+2,Tulipano Giallo,"Tulipano di colore giallo vivace.",2.20,200,2025-01-04 10:00:00
+3,Girasole,"Girasole di grandi dimensioni, ideale per bouquet.",4.00,50,2025-01-05 12:00:00
+4,Orchidea Bianca,"Orchidea a fusto singolo, fiori bianchi eleganti.",5.00,80,2025-01-06 09:00:00
+5,Margherita Bianca,"Margherita semplice, di colore bianco, stelo medio.",1.50,120,2025-01-07 14:00:00

@@ -1,0 +1,7 @@
+id_indirizzo,id_utente,destinatario_nome,destinatario_cognome,via,citta,cap,provincia,nazione
+1,1,Mario,Rossi,"Via dei Tulipani, 10",Roma,00100,RM,Italia
+2,1,Mario,Rossi,"Viale delle Rose, 25",Firenze,50100,FI,Italia
+3,2,Luigi,Bianchi,"Corso Vittorio, 100",Milano,20100,MI,Italia
+4,3,Anna,Verdi,"Via Milano, 7",Torino,10100,TO,Italia
+5,3,Marco,Rossi,"Piazza Dante, 50",Napoli,80100,NA,Italia
+6,4,Giulia,Neri,"Via Roma, 20",Genova,16100,GE,Italia

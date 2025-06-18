@@ -1,0 +1,132 @@
+[
+  {
+    "ContainingType": "AutoveloxProject.WebAPI.Controllers.LuoghiController",
+    "Method": "GetAllComuni",
+    "RelativePath": "api/Luoghi/allComuni",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoveloxProject.WebAPI.Controllers.LuoghiController",
+    "Method": "GetAllProvince",
+    "RelativePath": "api/Luoghi/allProvince",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoveloxProject.WebAPI.Controllers.LuoghiController",
+    "Method": "GetAllRegioni",
+    "RelativePath": "api/Luoghi/allRegioni",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoveloxProject.WebAPI.Controllers.LuoghiController",
+    "Method": "GetComuniByProvincia",
+    "RelativePath": "api/Luoghi/comuniByProvincia",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "provincia",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoveloxProject.WebAPI.Controllers.LuoghiController",
+    "Method": "DTOByRegione",
+    "RelativePath": "api/Luoghi/DTOByRegione",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "regione",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoveloxProject.WebAPI.Controllers.LuoghiController",
+    "Method": "GetProvinceByRegione",
+    "RelativePath": "api/Luoghi/provinceByRegione",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "regione",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoveloxProject.WebAPI.Controllers.MappeController",
+    "Method": "GetAllAutovelox",
+    "RelativePath": "api/Mappe",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoveloxProject.WebAPI.Controllers.MappeController",
+    "Method": "GetAutoveloxById",
+    "RelativePath": "api/Mappe/byId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutoveloxProject.WebAPI.Controllers.MappeController",
+    "Method": "GetAutoveloxByFilter",
+    "RelativePath": "api/Mappe/filtered",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "comune",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "provincia",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "regione",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

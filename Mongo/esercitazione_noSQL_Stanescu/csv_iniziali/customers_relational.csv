@@ -1,0 +1,6 @@
+_id,name,email,delivery_address_street,delivery_address_city,delivery_address_zip
+c1,Mario Rossi,mario.rossi@example.com,Via Verdi 20,Milano,20122
+c2,Anna Bianchi,anna.bianchi@example.com,Piazza Duomo 5,Milano,20121
+c3,John Doe,john.doe@example.com,Shibuya Crossing,Tokyo,15000
+c4,Maria Garcia,maria.garcia@example.com,Gran Via 18,Madrid,28013
+c5,Carlos Ruiz,carlos.ruiz@example.com,Calle Mayor 1,Madrid,28005

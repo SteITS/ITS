@@ -1,0 +1,33 @@
+collections
+
+- books:
+    -title
+    -authors
+    -genres
+    -release year  
+    -publisher
+    -isbn
+    -language
+    
+- users:
+    - anagrafica utente
+
+- borrows:
+    -book
+    -user
+    -timestamp prestito
+    -timestamp rientro
+    
+- authors:
+    -nome
+    -bio
+    -data di birth
+    -link_wikipedia
+
+- edition
+    -format
+    -nPages
+    
+
+libro <--> autore molti a molti
+utente <--> libro molti a molti

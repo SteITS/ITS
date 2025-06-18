@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB4F99D-02BB-4F55-8175-D64753E3F31F}|AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\autoveloxproject\\autoveloxproject.webapi\\service\\luoghiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB4F99D-02BB-4F55-8175-D64753E3F31F}|AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj|solutionrelative:autoveloxproject.webapi\\service\\luoghiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B9A25A-870B-4CCA-88DA-6B729647E3EA}|Autovelox.Data\\Autovelox.Data.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\autoveloxproject\\autovelox.data\\models\\comune.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B9A25A-870B-4CCA-88DA-6B729647E3EA}|Autovelox.Data\\Autovelox.Data.csproj|solutionrelative:autovelox.data\\models\\comune.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB4F99D-02BB-4F55-8175-D64753E3F31F}|AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\autoveloxproject\\autoveloxproject.webapi\\controllers\\luoghicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB4F99D-02BB-4F55-8175-D64753E3F31F}|AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj|solutionrelative:autoveloxproject.webapi\\controllers\\luoghicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB4F99D-02BB-4F55-8175-D64753E3F31F}|AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\autoveloxproject\\autoveloxproject.webapi\\service\\mappeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB4F99D-02BB-4F55-8175-D64753E3F31F}|AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj|solutionrelative:autoveloxproject.webapi\\service\\mappeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB4F99D-02BB-4F55-8175-D64753E3F31F}|AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\autoveloxproject\\autoveloxproject.webapi\\dto\\provinciacomunedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB4F99D-02BB-4F55-8175-D64753E3F31F}|AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj|solutionrelative:autoveloxproject.webapi\\dto\\provinciacomunedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB4F99D-02BB-4F55-8175-D64753E3F31F}|AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\autoveloxproject\\autoveloxproject.webapi\\dto\\mappadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB4F99D-02BB-4F55-8175-D64753E3F31F}|AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj|solutionrelative:autoveloxproject.webapi\\dto\\mappadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B9A25A-870B-4CCA-88DA-6B729647E3EA}|Autovelox.Data\\Autovelox.Data.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\autoveloxproject\\autovelox.data\\models\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B9A25A-870B-4CCA-88DA-6B729647E3EA}|Autovelox.Data\\Autovelox.Data.csproj|solutionrelative:autovelox.data\\models\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB4F99D-02BB-4F55-8175-D64753E3F31F}|AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\autoveloxproject\\autoveloxproject.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB4F99D-02BB-4F55-8175-D64753E3F31F}|AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj|solutionrelative:autoveloxproject.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B9A25A-870B-4CCA-88DA-6B729647E3EA}|Autovelox.Data\\Autovelox.Data.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\autoveloxproject\\autovelox.data\\models\\autoveloxcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B9A25A-870B-4CCA-88DA-6B729647E3EA}|Autovelox.Data\\Autovelox.Data.csproj|solutionrelative:autovelox.data\\models\\autoveloxcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B9A25A-870B-4CCA-88DA-6B729647E3EA}|Autovelox.Data\\Autovelox.Data.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\autoveloxproject\\autovelox.data\\models\\mappa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B9A25A-870B-4CCA-88DA-6B729647E3EA}|Autovelox.Data\\Autovelox.Data.csproj|solutionrelative:autovelox.data\\models\\mappa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB4F99D-02BB-4F55-8175-D64753E3F31F}|AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\autoveloxproject\\autoveloxproject.webapi\\autoveloxproject.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DB4F99D-02BB-4F55-8175-D64753E3F31F}|AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj|solutionrelative:autoveloxproject.webapi\\autoveloxproject.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB4F99D-02BB-4F55-8175-D64753E3F31F}|AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\autoveloxproject\\autoveloxproject.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB4F99D-02BB-4F55-8175-D64753E3F31F}|AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj|solutionrelative:autoveloxproject.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B9A25A-870B-4CCA-88DA-6B729647E3EA}|Autovelox.Data\\Autovelox.Data.csproj|c:\\users\\icts23-25.097\\desktop\\its\\progettic#\\autoveloxproject\\autovelox.data\\autovelox.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2B9A25A-870B-4CCA-88DA-6B729647E3EA}|Autovelox.Data\\Autovelox.Data.csproj|solutionrelative:autovelox.data\\autovelox.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Provincia.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\Autovelox.Data\\Models\\Provincia.cs",
+              "RelativeDocumentMoniker": "Autovelox.Data\\Models\\Provincia.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\Autovelox.Data\\Models\\Provincia.cs",
+              "RelativeToolTip": "Autovelox.Data\\Models\\Provincia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:33:41.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProvinciaComuneDTO.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\AutoveloxProject.WebAPI\\dto\\ProvinciaComuneDTO.cs",
+              "RelativeDocumentMoniker": "AutoveloxProject.WebAPI\\dto\\ProvinciaComuneDTO.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\AutoveloxProject.WebAPI\\dto\\ProvinciaComuneDTO.cs",
+              "RelativeToolTip": "AutoveloxProject.WebAPI\\dto\\ProvinciaComuneDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:33:36.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LuoghiService.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\AutoveloxProject.WebAPI\\Service\\LuoghiService.cs",
+              "RelativeDocumentMoniker": "AutoveloxProject.WebAPI\\Service\\LuoghiService.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\AutoveloxProject.WebAPI\\Service\\LuoghiService.cs",
+              "RelativeToolTip": "AutoveloxProject.WebAPI\\Service\\LuoghiService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwFQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:05:31.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LuoghiController.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\AutoveloxProject.WebAPI\\Controllers\\LuoghiController.cs",
+              "RelativeDocumentMoniker": "AutoveloxProject.WebAPI\\Controllers\\LuoghiController.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\AutoveloxProject.WebAPI\\Controllers\\LuoghiController.cs",
+              "RelativeToolTip": "AutoveloxProject.WebAPI\\Controllers\\LuoghiController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA6wC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:04:33.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappeService.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\AutoveloxProject.WebAPI\\Service\\MappeService.cs",
+              "RelativeDocumentMoniker": "AutoveloxProject.WebAPI\\Service\\MappeService.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\AutoveloxProject.WebAPI\\Service\\MappeService.cs",
+              "RelativeToolTip": "AutoveloxProject.WebAPI\\Service\\MappeService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:34:37.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\AutoveloxProject.WebAPI\\dto\\MappaDTO.cs",
+              "RelativeDocumentMoniker": "AutoveloxProject.WebAPI\\dto\\MappaDTO.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\AutoveloxProject.WebAPI\\dto\\MappaDTO.cs",
+              "RelativeToolTip": "AutoveloxProject.WebAPI\\dto\\MappaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:26:58.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\AutoveloxProject.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AutoveloxProject.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\AutoveloxProject.WebAPI\\Program.cs",
+              "RelativeToolTip": "AutoveloxProject.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:12:56.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mappa.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\Autovelox.Data\\Models\\Mappa.cs",
+              "RelativeDocumentMoniker": "Autovelox.Data\\Models\\Mappa.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\Autovelox.Data\\Models\\Mappa.cs",
+              "RelativeToolTip": "Autovelox.Data\\Models\\Mappa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:09:21.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\AutoveloxProject.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AutoveloxProject.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\AutoveloxProject.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AutoveloxProject.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:54:46.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comune.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\Autovelox.Data\\Models\\Comune.cs",
+              "RelativeDocumentMoniker": "Autovelox.Data\\Models\\Comune.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\Autovelox.Data\\Models\\Comune.cs",
+              "RelativeToolTip": "Autovelox.Data\\Models\\Comune.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:48:55.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoveloxContext.cs",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\Autovelox.Data\\Models\\AutoveloxContext.cs",
+              "RelativeDocumentMoniker": "Autovelox.Data\\Models\\AutoveloxContext.cs",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\Autovelox.Data\\Models\\AutoveloxContext.cs",
+              "RelativeToolTip": "Autovelox.Data\\Models\\AutoveloxContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:13:24.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AutoveloxProject.WebAPI",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj",
+              "RelativeDocumentMoniker": "AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj",
+              "RelativeToolTip": "AutoveloxProject.WebAPI\\AutoveloxProject.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T12:09:35.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Autovelox.Data",
+              "DocumentMoniker": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\Autovelox.Data\\Autovelox.Data.csproj",
+              "RelativeDocumentMoniker": "Autovelox.Data\\Autovelox.Data.csproj",
+              "ToolTip": "C:\\Users\\icts23-25.097\\Desktop\\ITS\\ProgettiC#\\AutoveloxProject\\Autovelox.Data\\Autovelox.Data.csproj",
+              "RelativeToolTip": "Autovelox.Data\\Autovelox.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T12:06:09.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

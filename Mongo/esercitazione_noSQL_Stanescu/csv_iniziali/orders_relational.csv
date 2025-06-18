@@ -1,0 +1,8 @@
+order_id,customer_id,restaurant_id,dish_id,quantity,order_date,status,total_cost
+o1,c1,r1,d1,2,2024-01-01T12:00:00Z,delivered,17.0
+o1,c1,r1,d3,1,2024-01-01T12:00:00Z,delivered,5.0
+o2,c2,r2,d5,1,2024-01-02T18:30:00Z,in delivery,10.0
+o2,c2,r2,d6,2,2024-01-02T18:30:00Z,in delivery,7.0
+o3,c3,r2,d4,1,2024-01-03T19:00:00Z,preparing,20.0
+o4,c4,r3,d7,3,2024-01-04T12:15:00Z,delivered,21.0
+o5,c5,r3,d9,2,2024-01-05T15:45:00Z,delivered,8.0
